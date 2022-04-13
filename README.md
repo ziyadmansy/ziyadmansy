@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
-<h3 align="center">I’m an experienced mobile app developer who has a track record of success creating apps that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect</h3>
+<h3 align="center">I’m an experienced Full Stack Developer mainly focused on developing mobile apps which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziyadmansy" alt="ziyadmansy" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Node.Js, ExpressJS**
+- 👨‍💻 Published Android Apps on [Google Play Store](https://bit.ly/ZiyadApps)
 
-- 👨‍💻 Published Android Apps on Google Play Store [https://play.google.com/store/apps/developer?id=Ziyad+Mansy](https://play.google.com/store/apps/developer?id=Ziyad+Mansy)
+- 👨‍💻 Published IOS Apps on [Apple App Store](https://apps.apple.com/us/developer/one-clique/id1473688897)
 
-- 👨‍💻 Published IOS Apps on App App Store [https://apps.apple.com/us/developer/one-clique/id1473688897](https://apps.apple.com/us/developer/one-clique/id1473688897)
+- 📄 I’m currently learning **Javascript, Node.Js, ExpressJS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing](https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing)
+- 📄 Know about my experiences with my [Online CV](https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing)
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
-- Computer Engineer Graduate
-- Full Stack Software Engineer
-- Mid-Level Flutter Developer
-- Backend Developer (Node.Js)
+ 
 <hr>
 
 <h2> Samples from my Projects </h2>
