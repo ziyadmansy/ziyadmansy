@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziyadmansy" alt="ziyadmansy" /></a> </p>
 
+- 🌱 I’m currently learning **Javascript, Node.Js, Express**
+
+- 👨‍💻 Published Android Apps on Google Play Store [https://play.google.com/store/apps/developer?id=Ziyad+Mansy](https://play.google.com/store/apps/developer?id=Ziyad+Mansy)
+
+- 👨‍💻 Published IOS Apps on App App Store [https://apps.apple.com/us/developer/one-clique/id1473688897](https://apps.apple.com/us/developer/one-clique/id1473688897)
+
+- 📫 How to reach me **ziyadmohammad37@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing](https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziyadmansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyadmansy" height="30" width="40" /></a>
@@ -22,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziyadmansy&show_icons=true&locale=en" alt="ziyadmansy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadmansy&" alt="ziyadmansy" /></p>
+
