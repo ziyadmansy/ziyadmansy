@@ -9,7 +9,7 @@
 
 - 📄 I’m currently learning **Javascript, Node.Js, ExpressJS**
 
-- 📄 Know about my experiences with my [Online CV](https://drive.google.com/file/d/1BVTyt3yvdgfqH1I6h3tgGDZ3KOFlHoyc/view?usp=sharing)
+- 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
