@@ -1,3 +1,4 @@
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 <h3 align="center">I’m an experienced Full Stack Developer mainly focused on developing mobile apps which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect</h3>
@@ -7,7 +8,7 @@
 
 - 👨‍💻 Published IOS Apps on [Apple App Store](https://apps.apple.com/us/developer/one-clique/id1473688897)
 
-- 📄 I’m currently learning **Javascript, Node.Js, ExpressJS**
+- 📄 I’m currently learning **Javascript, Node.Js, ExpressJS, MongoDB**
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
@@ -16,26 +17,53 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-- Gmail : ziyadmohammad37@gmail.com
-
-<a href="https://fb.com/ziyadmansy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziyadmansy69" height="30" width="40" /></a>
-<a href="http://Wa.me/201023843232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ziyad_mansy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14139092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14139092" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ziyadmansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyadmansy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ziyadmohammad37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ziyadmohammad37" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ziyad_mansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziyad_mansy" height="30" width="40" /></a>
+<!-- Languages and Tools -->
+<h2 align="left">Languages and Tools</h3> 
+<p>
+<a>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</a>
+<a>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</a>
+<a>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a>
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+<a>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+</a>
+<a>
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a>
+<img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
+<a>
+<img alt="Git" src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a>
+<img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a>
+<img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</a>
+<a>
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+</a>
 </p>
 
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me</h3>
+
+Gmail : ziyadmohammad37@gmail.com
+<a href="https://fb.com/ziyadmansy69" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadmansy69"/>  <a href="http://Wa.me/201023843232" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ziyad_mansy"/> <a href="https://www.linkedin.com/in/ziyadmansy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ziyad_mansy"/> <a href="https://stackoverflow.com/users/14139092" target="blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="14139092" height=25/></a> <a href="https://www.hackerrank.com/ziyadmohammad37" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ziyadmohammad37"/></a> <a href="https://codeforces.com/profile/ziyad_mansy" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ziyad_mansy" /></a>
 <hr>
 
-<h2> Samples from my Projects </h2>
+<h1> Portfolio </h1>
 
 ### 1CLIQUE-ESS
 1Clique has been expertly designed to operate with the minimum amount of clicks. State of the art technology that still prioritizes simplicity, providing a system that can easily be operated by even the least technically savvy of individuals.<br />
@@ -116,11 +144,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziyadmansy" alt="ziyadmansy" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziyadmansy&show_icons=true&locale=en&layout=compact" alt="ziyadmansy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziyadmansy&show_icons=true&locale=en" alt="ziyadmansy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadmansy&" alt="ziyadmansy" /></p>
-
+<p align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ziyadmansy&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadmansy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"><img src ="https://github-readme-streak-stats.herokuapp.com?user=ziyadmansy&theme=darcula&hide_border=true&background=FFFFFF00">
+<br>
+<br>
+</p>
