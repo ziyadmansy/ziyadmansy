@@ -20,11 +20,15 @@
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools</h3> 
 <p>
+
 <a>
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </a>
 <a>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</a>
+<a>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
 <a>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -51,19 +55,24 @@
 <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
 <a>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+</a>
+<a>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
+<a> <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </a>
 </p>
 
-
 <!-- Connect with me -->
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect </h2>
+<p>
 
-Gmail : ziyadmohammad37@gmail.com
-<a href="https://fb.com/ziyadmansy69" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadmansy69"/>  <a href="http://Wa.me/201023843232" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ziyad_mansy"/> <a href="https://www.linkedin.com/in/ziyadmansy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ziyad_mansy"/> <a href="https://stackoverflow.com/users/14139092" target="blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="14139092" height=25/></a> <a href="https://www.hackerrank.com/ziyadmohammad37" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ziyadmohammad37"/></a> <a href="https://codeforces.com/profile/ziyad_mansy" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ziyad_mansy" /></a>
-<hr>
+<a href="mailto:ziyadmohammad37@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ziyadmansy37"/> <a href="https://fb.com/ziyadmansy69" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadmansy69"/>  <a href="http://Wa.me/201023843232" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ziyad_mansy"/> <a href="https://www.linkedin.com/in/ziyadmansy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ziyad_mansy"/> <a href="https://stackoverflow.com/users/14139092" target="blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="14139092" height=25/></a> <a href="https://www.hackerrank.com/ziyadmohammad37" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ziyadmohammad37"/></a> <a href="https://codeforces.com/profile/ziyad_mansy" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ziyad_mansy" /></a>
+</p>
 
-<h1> Portfolio </h1>
+<h2> Portfolio </h2>
+<p>
 
 ### 1CLIQUE-ESS
 1Clique has been expertly designed to operate with the minimum amount of clicks. State of the art technology that still prioritizes simplicity, providing a system that can easily be operated by even the least technically savvy of individuals.<br />
@@ -124,6 +133,7 @@ Furniture app is the best app for browsing the best furniture & Architectural de
 ### Flying Bird
 
 Flying bird is a Simple Relaxing & Adventurous Game that flies between obstacles to get score points.<br />
+</p>
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.flappy_bird" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
