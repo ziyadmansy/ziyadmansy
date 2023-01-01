@@ -1,7 +1,8 @@
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
-<h3 align="center">I’m an experienced Mobile Developer who has around 3 years of experience in Flutter Hybrid Mobile App Development and 1 year of experience with Native Android App Development using both Java and Kotlin.
+<h3 align="center">I’m an experienced Mobile Apps Developer who has around 3 years of experience in Flutter Mobile Apps Development and 1+ years of experience in native Android apps development using both Java and Kotlin plus 1+ years of experience in native IOS apps development using Swift .<br/>
 If you are looking for a highly skilled and rich experienced mobile expert with a deep knowledge, a professional attitude, excellent communication skills and the highest code quality and a Clean Architecture with Test Driven Development(TDD) and CI/CD, then I'm the person you are looking for. Over the last 4 years I've built many apps of several fields for Android and Flutter which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.</h3>
 
 
@@ -80,6 +81,15 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 At 1Clique we recognize that the life of an SME entrepreneur is one of innovation, agility and growth. We believe SMEs are the key to societal growth. As founders of 1Clique, we have come together to ensure that SMEs meet their HR requirements effortlessly. Why? Because we know that your passion lies in your business and we want to give you more time to grow it.
 With over 50 years of combined experience, the team behind 1Clique have been at the forefront of advancement in the field of HR across the MENA and beyond for over two decades. 1Clique’s founders have put all this together to make it work for you.
 <p><a href="https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/1clique-ess/id1484374387" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Totel - Hotels rooms sharing
+It is hotel rooms sharing app that is still under development and is available as an open-source project by me to share the clean and scalable architecture pattern of the project.<br/>
+Totel app enables US users to post their reserved rooms to share them with other partners to share the cost fees. It enables users to reserve hotel rooms and share them after.<br/>
+It is designed with Domain-Driven design(DDD) with a very clean, scalable and maintainable architecture.<br/>
+
+<p><a href="https://github.com/ziyadmansy/totel-flutter-project" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
