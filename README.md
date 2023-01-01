@@ -24,14 +24,24 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 <p>
 
 <a>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-</a>
-<a>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </a>
+<a>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
+</a>
+<a>
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+</a>
+<a>
+<img alt="Xcode" src="https://img.shields.io/badge/xcode-7F52FF?style=for-the-badge&logo=xcode&logoColor=white">
+</a>
+<a>
+<img alt="Android Studio" src="https://img.shields.io/badge/android studio-00DE7A?style=for-the-badge&logo=android&logoColor=white">
+</a>
+
 <a>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
@@ -48,6 +58,7 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </a>
 <a>
+
 <img alt="Git" src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 <a>
