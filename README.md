@@ -96,6 +96,7 @@ It is a gym app for the users of Soul Gym.<br />
 Soul Gym App is available for iPhones and other smartphones. Soul Gym App is a simple and quick app to help our members stay connected and up to date! This app will help guide our members and make their experience so much easier!<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/bt/app/soul-gym/id1557887466" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://drive.google.com/drive/folders/1xQZBpLnuayCNn6wepehuu2nag8oDs00s?usp=share_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
 
 <hr>
 
