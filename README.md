@@ -1,5 +1,6 @@
 
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 <h3 align="center">I’m an experienced Mobile Apps Developer who has around 3 years of experience in Flutter Mobile Apps Development and 1+ years of experience in native Android apps development using both Java and Kotlin plus 1+ years of experience in native IOS apps development using Swift .<br/>
@@ -89,6 +90,18 @@ It is designed with Domain-Driven design(DDD) with a very clean, scalable and ma
 
 <p><a href="https://github.com/ziyadmansy/totel-flutter-project" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
 <p><a href="https://drive.google.com/drive/folders/1xQZBpLnuayCNn6wepehuu2nag8oDs00s?usp=share_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
+
+<hr>
+
+### Inovola's Technical Task
+It is a technical task that was requested by my for my technical interview with [Inovola].<br/>
+##### Core structure features
+ - Clean, scalable and maintainable architecture
+ - Domain Driven Design (DDD) approach
+ - Test Driven Development (TDD)
+
+<p><a href="https://github.com/ziyadmansy/inovola-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
+<p><a href="https://drive.google.com/drive/folders/1m-LkBzpNly2ERJ5J4QJ_zms1-zMyi1KS?usp=share_link"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
 
 <hr>
 
