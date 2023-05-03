@@ -14,7 +14,7 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 
 - 👨‍💻 Published IOS Apps on [Apple App Store](https://apps.apple.com/us/developer/one-clique/id1473688897)
 
-- 📄 I’m currently learning **Swift, SwiftUI, Xcode**
+- 📄 I’m currently learning **Low-Code OutSystems, Swift, SwiftUI, Xcode**
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
