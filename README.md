@@ -87,7 +87,7 @@ With over 50 years of combined experience, the team behind 1Clique have been at 
 
 <hr>
 
-### Tahara (For Women)
+### Tahara For Women
 Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support.
 <p><a href="https://play.google.com/store/apps/details?id=com.tahara.tahara_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/tahara-طهارة/id6446452995" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
