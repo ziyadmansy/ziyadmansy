@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
-<h3 align="center">I’m an experienced Mobile Apps Developer who has around 3 years of experience in Flutter Mobile Apps Development and 1+ years of experience in native Android apps development using both Java and Kotlin plus 1+ years of experience in native IOS apps development using Swift. 
+<h3 align="center">I’m an experienced Mobile Apps Developer who has around 4 years of experience in Flutter Mobile Apps Development and 1+ years of experience in native Android apps development using both Java and Kotlin plus 1+ years of experience in native IOS apps development using Swift. 
 
-Over the last 4 years I've built many apps of several fields for Android and Flutter which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect. 
+Over the last 5 years I've built many apps of several fields for Android/IOS with Flutter Framework which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect. 
 
 If you are looking for a highly skilled and rich experienced mobile expert with a deep knowledge, a professional attitude, excellent communication skills and the highest code quality and a Clean Architecture with Test Driven Development (TDD) and CI/CD, then I'm the person you are looking for.</h3>
 
