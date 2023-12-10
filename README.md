@@ -1,7 +1,3 @@
-
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 <h3 align="center">I’m an experienced Mobile Apps Developer with industry experience building Flutter mobile apps and native Android apps using both Java and Kotlin plus native IOS apps using Swift. 
@@ -88,9 +84,16 @@ With over 50 years of combined experience, the team behind 1Clique have been at 
 <hr>
 
 ### Tahara For Women
-Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support. 
-It is currently the Second-Ranked App on Apple App Store among whole Saudi Arabia for Health and Fitness Apps.
+Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support. <br />
+It is currently the Second-Ranked App on Apple App Store among whole Saudi Arabia for Health and Fitness Apps. 😄⚡
 <p><a href="https://play.google.com/store/apps/details?id=com.tahara.tahara_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/tahara-طهارة/id6446452995" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### GetN Driver and Rider (Full UBER rider and captain clone with enhanced features)
+I was responsible for building the mobile apps (Getn Client / Getn Driver) that acts like Uber/Careem Companies with some more enhanced features.  
+I built the apps and published them on both Google Play Store / Apple App Store.
+<p><a href="https://play.google.com/store/apps/developer?id=GetN&hl=pl&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
