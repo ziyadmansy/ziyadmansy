@@ -97,18 +97,21 @@ I built the apps and published them on both Google Play Store / Apple App Store.
 
 <hr>
 
-### Totel - Hotels rooms sharing
-It is hotel rooms sharing app that is still under development and is available as an open-source project by me to share the clean and scalable architecture pattern of the project.<br/>
-Totel app enables US users to post their reserved rooms to share them with other partners to share the cost fees. It enables users to reserve hotel rooms and share them after.<br/>
-It is designed with Domain-Driven design(DDD) with a very clean, scalable and maintainable architecture.<br/>
+### Focal Agent's Technical Task
+It is a technical task that was requested by me for my technical interview with FocalAgent [UK's leading visual content partner for estate agents].<br/>
+##### Core structure features
+ - Clean, scalable and maintainable architecture
+ - Domain Driven Design (DDD) approach
+ - Test Driven Development (TDD)
+ - BloC architecture with flutter_bloc state management package
 
-<p><a href="https://github.com/ziyadmansy/totel-flutter-project" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
-<p><a href="https://drive.google.com/drive/folders/1xQZBpLnuayCNn6wepehuu2nag8oDs00s?usp=share_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
+<p><a href="https://github.com/ziyadmansy/focal-agent-technical-task"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
+<p><a href="https://drive.google.com/drive/folders/1uw62WTJNOGtMf9aY762jUvddCN4SPdva?usp=sharing"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
 
 <hr>
 
 ### Inovola's Technical Task
-It is a technical task that was requested by my for my technical interview with [Inovola].<br/>
+It is a technical task that was requested by me for my technical interview with [Inovola].<br/>
 ##### Core structure features
  - Clean, scalable and maintainable architecture
  - Domain Driven Design (DDD) approach
@@ -116,6 +119,16 @@ It is a technical task that was requested by my for my technical interview with 
 
 <p><a href="https://github.com/ziyadmansy/inovola-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
 <p><a href="https://drive.google.com/drive/folders/1m-LkBzpNly2ERJ5J4QJ_zms1-zMyi1KS?usp=share_link"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
+
+<hr>
+
+### Totel - Hotels rooms sharing
+It is hotel rooms sharing app that is still under development and is available as an open-source project by me to share the clean and scalable architecture pattern of the project.<br/>
+Totel app enables US users to post their reserved rooms to share them with other partners to share the cost fees. It enables users to reserve hotel rooms and share them after.<br/>
+It is designed with Domain-Driven design(DDD) with a very clean, scalable and maintainable architecture.<br/>
+
+<p><a href="https://github.com/ziyadmansy/totel-flutter-project" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
+<p><a href="https://drive.google.com/drive/folders/1xQZBpLnuayCNn6wepehuu2nag8oDs00s?usp=share_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
 
 <hr>
 
