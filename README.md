@@ -1,5 +1,11 @@
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
+![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Exp-5+yrs-red) 
+
+- 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
+<br/>
 <h3 align="center">I’m an experienced Mobile Apps Developer with industry experience building Flutter mobile apps and native Android apps using both Java and Kotlin plus native IOS apps using Swift. 
 
 Over the last 5 years I've built many apps of several fields for Android and IOS which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect. 
@@ -10,8 +16,6 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 - 👨‍💻 Published Android Apps on [Google Play Store](https://bit.ly/ZiyadApps)
 
 - 👨‍💻 Published IOS Apps on [Apple App Store](https://apps.apple.com/us/developer/one-clique/id1473688897)
-
-- 📄 I’m currently learning **Low-Code OutSystems, Swift, SwiftUI, Xcode**
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
@@ -74,6 +78,14 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 
 <h2> Portfolio </h2>
 <p>
+
+### Numa
+At Numa, we’re building financial solutions for freelancers, creators, and self-employed professionals in the Arab world. Why? Simply because traditional banking does not work for many self-employed professionals. We will empower them with financial services designed carefully in response to their needs. Services such as Debit Cards, Credit Cards, Invoicing, Money Management tools and more, are all done from a single mobile app.  
+<br />
+Our first release has an invoicing tool we designed for freelancers, creators, and self-employed professionals to help them create, send, track and manage their professional invoices quickly and securely with Numa app. 😄⚡
+<p><a href="https://play.google.com/store/apps/details?id=com.cardlessBanki.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/gb/app/use-numa/id6444899716" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ### 1CLIQUE-ESS
 1Clique has been expertly designed to operate with the minimum amount of clicks. State of the art technology that still prioritizes simplicity, providing a system that can easily be operated by even the least technically savvy of individuals.<br />
