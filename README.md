@@ -12,9 +12,9 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
 
-- 👨‍💻 Published Android Apps on [Google Play Store](https://bit.ly/ZiyadApps)
+- 👨‍💻 Published Android Apps on Google Play Store: [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app), [My personal apps](https://bit.ly/ZiyadApps), [Gyms](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym)
 
-- 👨‍💻 Published IOS Apps on [Apple App Store](https://apps.apple.com/us/developer/one-clique/id1473688897)
+- 👨‍💻 Published IOS Apps on Apple App Store: [Numa](https://apps.apple.com/gb/developer/banki/id1657743795), [1Clique](https://apps.apple.com/us/developer/one-clique/id1473688897), [Gyms](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692)
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
