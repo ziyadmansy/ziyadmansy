@@ -12,9 +12,9 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
 
-- 👨‍💻 Published Android Apps on Google Play Store: [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app), [My personal apps](https://bit.ly/ZiyadApps), [Gyms](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym)
+- Most proud Android Apps on Google Play Store: [Numa - Wold class Fintech app for freelancers worldwide](https://play.google.com/store/apps/details?id=com.cardlessBanki.app), [Tahara - Medical platform that supports women’s health](https://play.google.com/store/apps/details?id=com.tahara.tahara_app), [GetN - An Uber/Careem same idea](https://play.google.com/store/apps/developer?id=GetN), [1Clique ESS - Full HR system for enterprise companies](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app), [My personal apps - Self made projects](https://bit.ly/ZiyadApps), [Soul Gym - Full Gym app](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym)
 
-- 👨‍💻 Published IOS Apps on Apple App Store: [Numa](https://apps.apple.com/gb/developer/banki/id1657743795), [1Clique](https://apps.apple.com/us/developer/one-clique/id1473688897), [Gyms](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692)
+- 👨‍💻 Most proud IOS Apps on Apple App Store: [Numa - Wold class Fintech app for freelancers worldwide](https://apps.apple.com/gb/developer/banki/id1657743795),[Tahara - 2nd Ranked Saudi Arabian medical platform that supports women’s health](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) , [1Clique ESS - Full HR system for enterprise companies](https://apps.apple.com/us/developer/one-clique/id1473688897), [Soul/Smash Gym](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692)
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
