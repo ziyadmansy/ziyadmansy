@@ -10,8 +10,6 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 <br/>
 
 - 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
- 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
 
 - Most proud Android Apps on Google Play Store:
   - [Numa - Wold class Fintech app for freelancers worldwide](https://play.google.com/store/apps/details?id=com.cardlessBanki.app)
@@ -29,6 +27,8 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
   - [Soul/Smash Gym](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692)
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
+
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
