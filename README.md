@@ -91,6 +91,7 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 <p>
 
 ### Numa
+Wold class Fintech app for freelancers worldwide. 
 At Numa, we’re building financial solutions for freelancers, creators, and self-employed professionals in the Arab world. Why? Simply because traditional banking does not work for many self-employed professionals. We will empower them with financial services designed carefully in response to their needs. Services such as Debit Cards, Credit Cards, Invoicing, Money Management tools and more, are all done from a single mobile app.  
 <br />
 Our first release has an invoicing tool we designed for freelancers, creators, and self-employed professionals to help them create, send, track and manage their professional invoices quickly and securely with Numa app. 😄⚡
