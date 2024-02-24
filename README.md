@@ -7,6 +7,7 @@
 Over the last 5 years I've built many apps of several fields for Android and IOS which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect. 
 
 If you are looking for a highly skilled and rich experienced mobile expert with a deep knowledge, a professional attitude, excellent communication skills and the highest code quality and a Clean Architecture with Test Driven Development (TDD) and CI/CD, then I'm the person you are looking for.</h3>
+<br/>
 
 - 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
  
