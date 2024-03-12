@@ -20,7 +20,7 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
   - [Soul Gym](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Full Gym apps
 
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
-  - [Numa](https://apps.apple.com/gb/developer/banki/id1657743795) - Wold class Fintech app for freelancers worldwide
+  - [Numa](https://apps.apple.com/us/app/use-numa/id6444899716) - Wold class Fintech app for freelancers worldwide
   - [Tahara](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - 2nd Ranked Saudi Arabian medical platform that supports women’s health
   - [GetN](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - An Uber/Careem same idea
   - [1Clique ESS](https://apps.apple.com/us/developer/one-clique/id1473688897) - Full HR system for enterprise companies
