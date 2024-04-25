@@ -12,19 +12,19 @@ If you are looking for a highly skilled and rich experienced mobile expert with 
 - 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
 
 - Most proud Android Apps on Google Play Store:
-  - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Wold class Fintech app for freelancers worldwide
-  - [Tahara](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - 2nd Ranked Saudi Arabian medical platform that supports women’s health
-  - [GetN](https://play.google.com/store/apps/developer?id=GetN) - An Uber/Careem same idea
-  - [1Clique ESS](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Full HR system for enterprise companies
-  - [My personal apps](https://bit.ly/ZiyadApps) - Self made projects
-  - [Soul Gym](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Full Gym apps
+  - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
+  - [Tahara](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
+  - [GetN](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
+  - [1Clique ESS](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Developed a comprehensive HR system tailored for enterprise companies, streamlining HR processes and enhancing organizational efficiency. 
+  - [My personal apps](https://bit.ly/ZiyadApps) - Created a portfolio of self-made projects, showcasing a diverse range of innovative mobile applications. 
+  - [Soul Gym](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
-  - [Numa](https://apps.apple.com/us/app/use-numa/id6444899716) - Wold class Fintech app for freelancers worldwide
-  - [Tahara](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - 2nd Ranked Saudi Arabian medical platform that supports women’s health
-  - [GetN](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - An Uber/Careem same idea
-  - [1Clique ESS](https://apps.apple.com/us/developer/one-clique/id1473688897) - Full HR system for enterprise companies
-  - [Soul/Smash Gym](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Full Gym apps
+  - [Numa](https://apps.apple.com/us/app/use-numa/id6444899716) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
+  - [Tahara](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
+  - [GetN](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
+  - [1Clique ESS](https://apps.apple.com/us/developer/one-clique/id1473688897) - Developed a comprehensive HR system tailored for enterprise companies, streamlining HR processes and enhancing organizational efficiency. 
+  - [Soul/Smash Gym](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
 - 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
 
