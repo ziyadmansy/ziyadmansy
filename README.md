@@ -100,16 +100,19 @@ With a keen eye for detail and a commitment to perfection, I bring a strong sens
 <hr>
 
 ### 1CLIQUE-ESS
-1Clique has been expertly designed to operate with the minimum amount of clicks. State of the art technology that still prioritizes simplicity, providing a system that can easily be operated by even the least technically savvy of individuals.<br />
-At 1Clique we recognize that the life of an SME entrepreneur is one of innovation, agility and growth. We believe SMEs are the key to societal growth. As founders of 1Clique, we have come together to ensure that SMEs meet their HR requirements effortlessly. Why? Because we know that your passion lies in your business and we want to give you more time to grow it.
-With over 50 years of combined experience, the team behind 1Clique have been at the forefront of advancement in the field of HR across the MENA and beyond for over two decades. 1Clique’s founders have put all this together to make it work for you.
+* Led maintenance and upgrades for a comprehensive HR system tailored for client companies, enhancing its functionality and adaptability to evolving industry needs. 
+* Implemented numerous major modules utilizing Test Driven Development (TDD) practices, ensuring the delivery of high-quality and robust features to clients. 
+* Improved the 1CLIQUE-ESS mobile app's features and modules, enhancing its usability and performance for end-users. 
+* Proactively addressed and resolved clients' issues regarding the mobile app, fostering strong client relationships and ensuring satisfaction with the product. 
 <p><a href="https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/1clique-ess/id1484374387" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
 ### Tahara For Women
-Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support. <br />
-It is currently the Second-Ranked App on Apple App Store among whole Saudi Arabia for Health and Fitness Apps. 😄⚡
+* Led a team of Junior Flutter developers in the development and maintenance of the "Tahara" project, a leading health and fitness application available on both the Apple App Store and Google Play Store. 
+* Contributed to the project's success, resulting in "Tahara" achieving the prestigious rank of Second-Ranked App on the Apple App Store among all health and fitness apps in Saudi Arabia. 
+* Played a pivotal role in ensuring the application's continuous improvement and market competitiveness, enhancing user experience and satisfaction. 
+Successfully collaborated with the Assas IT Solutions team and Inovola outsource partners to meet project milestones and deliverables. 
 <p><a href="https://play.google.com/store/apps/details?id=com.tahara.tahara_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/tahara-طهارة/id6446452995" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
