@@ -118,8 +118,9 @@ Successfully collaborated with the Assas IT Solutions team and Inovola outsource
 <hr>
 
 ### GetN Driver and Rider (Full UBER rider and captain clone with enhanced features)
-I was responsible for building the mobile apps (Getn Client / Getn Driver) that acts like Uber/Careem Companies with some more enhanced features.  
-I built the apps and published them on both Google Play Store / Apple App Store.
+* Developed and launched two mobile applications, Getn Client and Getn Driver, akin to industry giants such as Uber and Careem. 
+* Successfully published both applications on Google Play Store and Apple App Store, ensuring widespread accessibility to users. 
+* Played a key role in delivering robust and user-friendly applications tailored to the unique demands of the ride-hailing industry.
 <p><a href="https://play.google.com/store/apps/developer?id=GetN&hl=pl&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
