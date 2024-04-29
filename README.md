@@ -9,7 +9,7 @@ Throughout my career, I have successfully developed and launched numerous apps a
 With a keen eye for detail and a commitment to perfection, I bring a strong sense of craftsmanship to every project I undertake. I am deeply passionate about Clean Architecture, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD), ensuring the highest standards of code quality and project delivery. </h3>
 <br/>
 
-- 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
+- 💳 Building a World Class Fintech App at [](https://www.usenuma.com/)
 
 - Most proud Android Apps on Google Play Store:
   - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
@@ -91,10 +91,10 @@ With a keen eye for detail and a commitment to perfection, I bring a strong sens
 <p>
 
 ### Numa
-Wold class Fintech app for freelancers worldwide. 
-At Numa, we’re building financial solutions for freelancers, creators, and self-employed professionals in the Arab world. Why? Simply because traditional banking does not work for many self-employed professionals. We will empower them with financial services designed carefully in response to their needs. Services such as Debit Cards, Credit Cards, Invoicing, Money Management tools and more, are all done from a single mobile app.  
-<br />
-Our first release has an invoicing tool we designed for freelancers, creators, and self-employed professionals to help them create, send, track and manage their professional invoices quickly and securely with Numa app. 😄⚡
+* Spearheaded the development of pivotal features for the Numa mobile banking app, including robust secure login mechanisms, transaction tracking functionalities, and intuitive budgeting tools. 
+* Leveraged expertise in UI/UX design, API integration, and secure data storage to deliver a cutting-edge, user-centric application that meets the diverse needs of Numa's global customer base. 
+* Played a central role in establishing Numa as a trusted name in the fintech industry through the delivery of high-quality, innovative solutions. 
+* Contributed to the success of the Numa project, which now serves over 10,000 users worldwide, facilitating over $300,000 USD in transactions among freelancers and self-employed professionals.
 <p><a href="https://play.google.com/store/apps/details?id=com.cardlessBanki.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/gb/app/use-numa/id6444899716" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
