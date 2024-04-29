@@ -2,11 +2,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
-<h3 align="center">I’m an experienced Mobile Apps Developer with industry experience building Flutter mobile apps and native Android apps using both Java and Kotlin plus native IOS apps using Swift. 
-
-Over the last 5 years I've built many apps of several fields for Android and IOS which have a track record of success that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect. 
-
-If you are looking for a highly skilled and rich experienced mobile expert with a deep knowledge, a professional attitude, excellent communication skills and the highest code quality and a Clean Architecture with Test Driven Development (TDD) and CI/CD, then I'm the person you are looking for.</h3>
+<h3 align="center">With over 5 years of professional experience in mobile app development, I am a seasoned Mobile Apps Developer proficient in building Flutter, native Android, and native iOS applications. My expertise spans across Java, Kotlin, and Swift, enabling me to deliver high-quality solutions tailored to the unique requirements of each platform. 
+ 
+Throughout my career, I have successfully developed and launched numerous apps across various fields for both Android and iOS platforms. These apps have garnered recognition for their success in the market, being well-received by users and demonstrating commercial viability. 
+ 
+With a keen eye for detail and a commitment to perfection, I bring a strong sense of craftsmanship to every project I undertake. I am deeply passionate about Clean Architecture, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD), ensuring the highest standards of code quality and project delivery. </h3>
 <br/>
 
 - 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
