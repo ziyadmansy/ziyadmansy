@@ -9,7 +9,7 @@ Throughout my career, I have successfully developed and launched numerous apps a
 With a keen eye for detail and a commitment to perfection, I bring a strong sense of craftsmanship to every project I undertake. I am deeply passionate about Clean Architecture, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD), ensuring the highest standards of code quality and project delivery. </h3>
 <br/>
 
-- 💳 Building a World Class Fintech App at [](https://www.usenuma.com/)
+- 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
 
 - Most proud Android Apps on Google Play Store:
   - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
