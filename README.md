@@ -89,6 +89,15 @@ Throughout my career, I have successfully launched multiple apps across diverse 
 <h2> Portfolio </h2>
 <p>
 
+### Madfu
+* Spearheaded the development of key features for MADFU, a fintech app enabling flexible, interest-free installment payments, secure transactions, and seamless shopping across various categories.
+* Led the integration of secure payment systems, personalized installment plans, and Sharia-compliant financial solutions, ensuring a user-friendly and trusted platform for all financial transactions.
+* Focused on optimizing performance, scalability, and security to meet the needs of a rapidly growing user base while maintaining a smooth and efficient user experience.
+* Contributed to MADFU's success, which now serves over 50,000 users, providing them with a smarter, more flexible way to shop and pay, driving significant adoption and positive user feedback in the fintech market.
+<p><a href="https://play.google.com/store/apps/details?id=com.sa.app.madfuser" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/madfu-%D9%85%D8%AF%D9%81%D9%88%D8%B9/id1658723268" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Numa
 * Spearheaded the development of pivotal features for the Numa mobile banking app, including robust secure login mechanisms, transaction tracking functionalities, and intuitive budgeting tools. 
 * Leveraged expertise in UI/UX design, API integration, and secure data storage to deliver a cutting-edge, user-centric application that meets the diverse needs of Numa's global customer base. 
