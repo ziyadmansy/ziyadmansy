@@ -2,17 +2,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
-<h3 align="center">With over 5 years of professional experience in mobile app development, I am a seasoned Mobile Apps Developer proficient in building Flutter, native Android, and native iOS applications. My expertise spans across Java, Kotlin, and Swift, enabling me to deliver high-quality solutions tailored to the unique requirements of each platform. 
- 
-Throughout my career, I have successfully developed and launched numerous apps across various fields for both Android and iOS platforms. These apps have garnered recognition for their success in the market, being well-received by users and demonstrating commercial viability. 
- 
-With a keen eye for detail and a commitment to perfection, I bring a strong sense of craftsmanship to every project I undertake. I am deeply passionate about Clean Architecture, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD), ensuring the highest standards of code quality and project delivery. </h3>
+<h3 align="center">With over 5 years of experience in mobile app development, I specialize in building high-performance Flutter applications and fintech solutions. Proficient in both cross-platform (Flutter) and native mobile development (Android/iOS), I have a strong background in Java, Kotlin, Swift, and Dart, enabling me to create scalable, efficient, and user-friendly apps.
+My expertise includes developing feature-rich fintech applications, where I integrate secure payment systems, flexible payment solutions, and innovative financial services. I am passionate about crafting seamless user experiences and ensuring robust app performance.
+Throughout my career, I have successfully launched multiple apps across diverse industries, particularly in fintech, where I’ve created solutions that prioritize security, scalability, and usability. My approach emphasizes Clean Architecture, Test-Driven Development (TDD), and CI/CD to maintain high-quality standards and ensure smooth, efficient project delivery.
+</h3>
 <br/>
 
-- 💳 Building a World Class Fintech App at [Numa](https://www.usenuma.com/)
-
 - Most proud Android Apps on Google Play Store:
-  - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
+  - [Madfu](https://play.google.com/store/apps/details?id=com.sa.app.madfuser) - A fintech app that lets users shop with flexible, interest-free installments, exclusive deals, and secure, transparent transactions.
+  - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services.
   - [Tahara](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
   - [GetN](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
   - [1Clique ESS](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Developed a comprehensive HR system tailored for enterprise companies, streamlining HR processes and enhancing organizational efficiency. 
@@ -20,6 +18,7 @@ With a keen eye for detail and a commitment to perfection, I bring a strong sens
   - [Soul Gym](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
+  - [Madfu](https://apps.apple.com/eg/app/madfu-%D9%85%D8%AF%D9%81%D9%88%D8%B9/id1658723268) - A fintech app that lets users shop with flexible, interest-free installments, exclusive deals, and secure, transparent transactions.
   - [Numa](https://apps.apple.com/us/app/use-numa/id6444899716) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
   - [Tahara](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
   - [GetN](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
