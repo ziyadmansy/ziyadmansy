@@ -146,6 +146,17 @@ It is a technical task that was requested by me for my technical interview with 
 
 <hr>
 
+### Rubikal's Technical Task
+It is a technical task that was requested by me for my technical interview with [Rubikal].<br/>
+##### Core structure features
+ - Clean, scalable and maintainable architecture
+ - Domain Driven Design (DDD) approach
+ - Test Driven Development (TDD)
+
+<p><a href="https://github.com/ziyadmansy/oivan-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
+
+<hr>
+
 ### Inovola's Technical Task
 It is a technical task that was requested by me for my technical interview with [Inovola].<br/>
 ##### Core structure features
