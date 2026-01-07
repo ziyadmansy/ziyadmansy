@@ -133,6 +133,17 @@ Successfully collaborated with the Assas IT Solutions team and Inovola outsource
 
 <hr>
 
+### Rubikal's Technical Task
+It is a technical task that was requested by me for my technical interview with [Rubikal].<br/>
+##### Core structure features
+ - Clean, scalable and maintainable architecture
+ - Domain Driven Design (DDD) approach
+ - Test Driven Development (TDD)
+
+<p><a href="https://github.com/ziyadmansy/oivan-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
+
+<hr>
+
 ### Focal Agent's Technical Task
 It is a technical task that was requested by me for my technical interview with FocalAgent [UK's leading visual content partner for estate agents].<br/>
 ##### Core structure features
@@ -143,17 +154,6 @@ It is a technical task that was requested by me for my technical interview with 
 
 <p><a href="https://github.com/ziyadmansy/focal-agent-technical-task"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
 <p><a href="https://drive.google.com/drive/folders/1uw62WTJNOGtMf9aY762jUvddCN4SPdva?usp=sharing"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
-
-<hr>
-
-### Rubikal's Technical Task
-It is a technical task that was requested by me for my technical interview with [Rubikal].<br/>
-##### Core structure features
- - Clean, scalable and maintainable architecture
- - Domain Driven Design (DDD) approach
- - Test Driven Development (TDD)
-
-<p><a href="https://github.com/ziyadmansy/oivan-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
 
 <hr>
 
