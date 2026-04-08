@@ -13,10 +13,10 @@ experience shipping high-impact products across the Saudi, UK, and global market
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
   - [**MADFU (Fintech / BNPL Platform**)](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
   - [**PropertyBox**](https://apps.apple.com/eg/app/propertybox/id1660237557) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
-  - [**Numa**](https://apps.apple.com/us/app/use-numa/id6444899716) - Global fintech application supporting freelancers with secure digital financial services.
+  - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
   - [**Tahara**](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Medical platform ranked **#2 in Saudi Arabia**, focused on women’s health and wellbeing.
   - [**GetN**](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
-  - [**Talmaro-ESS**](https://apps.apple.com/us/developer/one-clique/id1473688897) - Enterprise HR management system streamlining core organizational processes.
+  - [**Talmaro-ESS**](https://apps.apple.com/us/app/talmaro-ess/id1484374387) - Enterprise HR management system streamlining core organizational processes.
   - [**Soul/Smash Gym**](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
 - 👨‍💻 Most proud Android Apps on Google Play Store:
