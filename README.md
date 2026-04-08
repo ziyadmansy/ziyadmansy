@@ -1,33 +1,39 @@
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
-<h3 align="center">With over 5 years of experience in mobile app development, I specialize in building high-performance Flutter applications and fintech solutions. Proficient in both cross-platform (Flutter) and native mobile development (Android/iOS), I have a strong background in Java, Kotlin, Swift, and Dart, enabling me to create scalable, efficient, and user-friendly apps.
-My expertise includes developing feature-rich fintech applications, where I integrate secure payment systems, flexible payment solutions, and innovative financial services. I am passionate about crafting seamless user experiences and ensuring robust app performance.
-Throughout my career, I have successfully launched multiple apps across diverse industries, particularly in fintech, where I’ve created solutions that prioritize security, scalability, and usability. My approach emphasizes Clean Architecture, Test-Driven Development (TDD), and CI/CD to maintain high-quality standards and ensure smooth, efficient project delivery.
+<h3 align="center">Senior / Lead Flutter Engineer with 5+ years of experience delivering production-grade mobile applications across fintech, health, and enterprise domains. Proven track record leading Flutter
+teams and owning mobile architecture for scalable, secure fintech platforms serving
+international markets. Strong background in Clean Architecture, TDD, and CI/CD, with hands-on
+experience shipping high-impact products across the Saudi, UK, and global markets.
 </h3>
 <br/>
 
-- Most proud Android Apps on Google Play Store:
-  - [Madfu](https://play.google.com/store/apps/details?id=com.sa.app.madfuser) - A fintech app that lets users shop with flexible, interest-free installments, exclusive deals, and secure, transparent transactions.
-  - [Numa](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services.
-  - [Tahara](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
-  - [GetN](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
-  - [1Clique ESS](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Developed a comprehensive HR system tailored for enterprise companies, streamlining HR processes and enhancing organizational efficiency. 
-  - [My personal apps](https://bit.ly/ZiyadApps) - Created a portfolio of self-made projects, showcasing a diverse range of innovative mobile applications. 
-  - [Soul Gym](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
-
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
-  - [Madfu](https://apps.apple.com/eg/app/madfu-%D9%85%D8%AF%D9%81%D9%88%D8%B9/id1658723268) - A fintech app that lets users shop with flexible, interest-free installments, exclusive deals, and secure, transparent transactions.
-  - [Numa](https://apps.apple.com/us/app/use-numa/id6444899716) - A world-class fintech app catering to freelancers worldwide, offering secure and convenient financial services. 
-  - [Tahara](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Ranked 2nd in Saudi Arabia, Tahara is a medical platform dedicated to supporting women's health and well-being. 
-  - [GetN](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
-  - [1Clique ESS](https://apps.apple.com/us/developer/one-clique/id1473688897) - Developed a comprehensive HR system tailored for enterprise companies, streamlining HR processes and enhancing organizational efficiency. 
-  - [Soul/Smash Gym](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
+  - [**MADFU (Fintech / BNPL Platform**)](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
+  - [**PropertyBox**](https://apps.apple.com/eg/app/propertybox/id1660237557) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
+  - [**Numa**](https://apps.apple.com/us/app/use-numa/id6444899716) - Global fintech application supporting freelancers with secure digital financial services.
+  - [**Tahara**](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Medical platform ranked **#2 in Saudi Arabia**, focused on women’s health and wellbeing.
+  - [**GetN**](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
+  - [**Talmaro-ESS**](https://apps.apple.com/us/developer/one-clique/id1473688897) - Enterprise HR management system streamlining core organizational processes.
+  - [**Soul/Smash Gym**](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
-- 📄 Know about my experiences with my [Online CV](https://bit.ly/ziyadmansycv)
+- 👨‍💻 Most proud Android Apps on Google Play Store:
+  - [**MADFU (Fintech / BNPL Platform)**](https://play.google.com/store/apps/details?id=com.sa.app.madfuser) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
+  - [**PropertyBox**](https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
+  - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
+  - [**Tahara**](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Medical platform ranked **#2 in Saudi Arabia**, focused on women’s health and wellbeing.
+  - [**Talmaro-ESS**](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Enterprise HR management system streamlining core organizational processes.
+  - [**GetN**](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
+  - [**My personal apps**](https://bit.ly/ZiyadApps) - Created a portfolio of self-made projects, showcasing a diverse range of innovative mobile applications. 
+  - [**Soul Gym**](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/ziyadmansy/) or [Mail](mailto:ziyadmohammad37@gmail.com)
+
+
+- 📄 Know about my experiences with my [**Online CV**](https://bit.ly/ziyadmansycv)
+
+- 📫 Reach me via [**LinkedIn**](https://www.linkedin.com/in/ziyadmansy/) or [**Mail**](mailto:ziyadmohammad37@gmail.com)
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
@@ -98,6 +104,14 @@ Throughout my career, I have successfully launched multiple apps across diverse 
 
 <hr>
 
+### Focal Agent
+-   Senior Flutter engineer contributing to PropertyBox, an AI-powered real estate platform for the UK market.
+-   Delivered AI-driven features including image enhancement, object removal, and AI-generated property descriptions.
+-   Contributed to campaign management tools, professional content generation, and EPC-related workflows supporting UK compliance.
+<p><a href="https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/propertybox/id1660237557" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Numa
 * Spearheaded the development of pivotal features for the Numa mobile banking app, including robust secure login mechanisms, transaction tracking functionalities, and intuitive budgeting tools. 
 * Leveraged expertise in UI/UX design, API integration, and secure data storage to deliver a cutting-edge, user-centric application that meets the diverse needs of Numa's global customer base. 
@@ -107,11 +121,11 @@ Throughout my career, I have successfully launched multiple apps across diverse 
 
 <hr>
 
-### 1CLIQUE-ESS
-* Led maintenance and upgrades for a comprehensive HR system tailored for client companies, enhancing its functionality and adaptability to evolving industry needs. 
-* Implemented numerous major modules utilizing Test Driven Development (TDD) practices, ensuring the delivery of high-quality and robust features to clients. 
-* Improved the 1CLIQUE-ESS mobile app's features and modules, enhancing its usability and performance for end-users. 
-* Proactively addressed and resolved clients' issues regarding the mobile app, fostering strong client relationships and ensuring satisfaction with the product. 
+### Talmaro-ESS
+-   Contributed to the development of an enterprise HR management system (Talmaro-ESS) using Flutter.
+-   Implemented new features, fixed bugs, and supported ongoing enhancements to improve app performance and stability.
+-   Collaborated with senior developers and the backend team to deliver reliable releases and maintain code quality.
+-   Assisted in maintaining and improving the user experience, contributing to higher client satisfaction.
 <p><a href="https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/1clique-ess/id1484374387" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
