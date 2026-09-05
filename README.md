@@ -1,29 +1,53 @@
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
-<h3 align="center">Senior / Lead Flutter Engineer with 5+ years of experience delivering production-grade mobile applications across fintech, health, and enterprise domains. Proven track record leading Flutter
-teams and owning mobile architecture for scalable, secure fintech platforms serving
+<h3 align="center">Senior Flutter Engineer with 5+ years of experience delivering production-grade mobile applications across fintech, health, and transportation/logistics domains — including full in-app navigation and offline-first architecture. Proven track record leading Flutter
+teams and owning mobile architecture for scalable, secure platforms serving
 international markets. Strong background in Clean Architecture, TDD, and CI/CD, with hands-on
-experience shipping high-impact products across the Saudi, UK, and global markets.
+experience shipping high-impact products across the Saudi, UK, US, and global markets.
 </h3>
 <br/>
 
+- 🎓 Currently applying to PhD programs in Computer Science / Software Engineering, focused on AI/ML, LLMs, and program analysis
+- 🔭 Currently building the offline-first navigation system for Naveera Tech's Driver App
+- 🧪 Currently researching LLM-guided fuzzing and program analysis (see Research section below)
+
+<h2 align="left">🔬 Research</h2>
+
+### LLM-Guided Grammar Fuzzing: Coverage-Free Refinement of Property-Based Generators
+*Independent research, submitted to ICST 2027 (double-blind review)*
+
+Designed and built a fully black-box fuzzing pipeline that uses an LLM to iteratively refine a grammar-based Hypothesis strategy for the **cJSON** C parser — using only parser-level feedback (acceptance rate, structural diversity, rejection signatures), with **no coverage instrumentation**. Every LLM-authored proposal is AST-sandboxed and validated before it ever touches the target binary.
+
+**Key results (15 seeded runs per arm):**
+- Raised mean input acceptance rate from **58.2% → 97.1%** vs. a static grammar-only baseline (exact permutation test, p ≈ 1.29×10⁻⁸)
+- Generalized the *unmodified* pipeline to a second target (**parson**) to test portability
+- Ran a feedback-signal ablation (RQ3) isolating which proxy signals actually drive improvement
+- Fully reproducible: seeded runs, environment/provenance manifests, and open-sourced harnesses
+
+<p>
+<a href="https://doi.org/10.5281/zenodo.22311299" target="_blank"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.22311299.svg" /></a>
+<a href="https://github.com/ziyadmansy/agentic-grammar-fuzzing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a>
+</p>
+
+**Stack:** Python, Hypothesis, OpenAI API, ANTLR grammars, AddressSanitizer/UBSan
+
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
+  - [**Naveera Driver**](https://apps.apple.com/us/app/naveera-driver/id6769880111) - Driver app for Naveera's fleet-operations platform (NEMT/paratransit/freight); full in-app navigation and offline-mode support.
   - [**MADFU (Fintech / BNPL Platform**)](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
   - [**PropertyBox**](https://apps.apple.com/eg/app/propertybox/id1660237557) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
   - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
-  - [**Tahara**](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Medical platform ranked **#2 in Saudi Arabia**, focused on women’s health and wellbeing.
+  - [**Tahara**](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Medical platform ranked **#2 in Saudi Arabia**, focused on women's health and wellbeing.
   - [**GetN**](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
   - [**Talmaro-ESS**](https://apps.apple.com/us/app/talmaro-ess/id1484374387) - Enterprise HR management system streamlining core organizational processes.
   - [**Soul/Smash Gym**](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
 
 - 👨‍💻 Most proud Android Apps on Google Play Store:
+  - [**Naveera Driver**](https://play.google.com/store/apps/details?id=tech.naveera.driver&hl=en) - Driver app for Naveera's fleet-operations platform (NEMT/paratransit/freight); full in-app navigation and offline-mode support.
   - [**MADFU (Fintech / BNPL Platform)**](https://play.google.com/store/apps/details?id=com.sa.app.madfuser) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
   - [**PropertyBox**](https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
   - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
-  - [**Tahara**](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Medical platform ranked **#2 in Saudi Arabia**, focused on women’s health and wellbeing.
+  - [**Tahara**](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Medical platform ranked **#2 in Saudi Arabia**, focused on women's health and wellbeing.
   - [**Talmaro-ESS**](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Enterprise HR management system streamlining core organizational processes.
   - [**GetN**](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
   - [**My personal apps**](https://bit.ly/ZiyadApps) - Created a portfolio of self-made projects, showcasing a diverse range of innovative mobile applications. 
@@ -55,6 +79,9 @@ experience shipping high-impact products across the Saudi, UK, and global market
 </a>
 <a>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+</a>
+<a>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 <a>
 <img alt="Xcode" src="https://img.shields.io/badge/xcode-7F52FF?style=for-the-badge&logo=xcode&logoColor=white">
@@ -94,6 +121,18 @@ experience shipping high-impact products across the Saudi, UK, and global market
 
 <h2> Portfolio </h2>
 <p>
+
+### Naveera Tech — Senior Software Engineer *(Current)*
+Naveera builds fleet-operations software (routing, dispatch, driver app, billing, computer vision) for NEMT, paratransit, and freight/field-service fleets across the US — founded by former fleet operators out of Colorado and Arizona.
+
+- Senior Software Engineer building the **Driver App** and **Client App** — both full Flutter mobile apps, the two rider/operator-facing surfaces of the Naveera platform.
+- Built the driver app's **full in-app navigation system**, handling live routing and turn-by-turn guidance for drivers on active trips.
+- Implemented **full offline-mode support**, keeping dispatch, navigation, and trip data usable and syncing correctly when drivers lose connectivity mid-route — a core reliability requirement for field/transportation operations.
+- Contributed to **dispatch/routing** and **billing** modules alongside the mobile work, supporting the end-to-end trip lifecycle from scheduling to invoicing.
+
+<p><a href="https://play.google.com/store/apps/details?id=tech.naveera.driver&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/naveera-driver/id6769880111" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ### Madfu
 * Spearheaded the development of key features for MADFU, a fintech app enabling flexible, interest-free installment payments, secure transactions, and seamless shopping across various categories.
@@ -248,20 +287,6 @@ Flying bird is a Simple Relaxing & Adventurous Game that flies between obstacles
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.flappy_bird" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <hr>
 
