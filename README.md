@@ -32,6 +32,8 @@ Designed and built a fully black-box fuzzing pipeline that uses an LLM to iterat
 
 **Stack:** Python, Hypothesis, OpenAI API, ANTLR grammars, AddressSanitizer/UBSan
 
+<h2 align="left">📱 Apps</h2>
+
 - 👨‍💻 Most proud IOS Apps on Apple App Store:
   - [**Naveera Driver**](https://apps.apple.com/us/app/naveera-driver/id6769880111) - Driver app for Naveera's fleet-operations platform (NEMT/paratransit/freight); full in-app navigation and offline-mode support.
   - [**MADFU (Fintech / BNPL Platform**)](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
