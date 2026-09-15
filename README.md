@@ -1,297 +1,301 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
 <h3 align="center">
-  Senior Mobile Software Engineer specializing in Flutter, with 5+ years shipping production apps in fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — built with clean architecture, offline-first design, and CI/CD from day one. Led a 3-engineer team on a SAMA-licensed BNPL platform (100K+ downloads, zero critical security incidents) and shipped AI-powered features for an enterprise UK real estate platform used by Reapit and Connells. Currently on US fleet-operations software, where I took a stalled product from 9 months without a release to a HIPAA-compliant launch on both app stores in one month. Five independently published apps on Google Play; author of two preprints on LLM-guided software testing, one under review at an ICSE-colocated conference.
+Senior Mobile Software Engineer · Flutter · iOS · Android
 </h3>
-<br/>
-
-- 🎓 Currently applying to PhD programs in Computer Science / Software Engineering, focused on AI/ML, LLMs, and program analysis
-- 🔭 Currently building the offline-first navigation system for Naveera Tech's Driver App
-- 🧪 Currently researching LLM-guided fuzzing and program analysis (see Research section below)
-
-<h2 align="left">🔬 Research</h2>
-
-### LLM-Guided Grammar Fuzzing: Coverage-Free Refinement of Property-Based Generators
-*Independent research, submitted to ICST 2027 (double-blind review)*
-
-Designed and built a fully black-box fuzzing pipeline that uses an LLM to iteratively refine a grammar-based Hypothesis strategy for the **cJSON** C parser — using only parser-level feedback (acceptance rate, structural diversity, rejection signatures), with **no coverage instrumentation**. Every LLM-authored proposal is AST-sandboxed and validated before it ever touches the target binary.
-
-**Key results (15 seeded runs per arm):**
-- Raised mean input acceptance rate from **58.2% → 97.1%** vs. a static grammar-only baseline (exact permutation test, p ≈ 1.29×10⁻⁸)
-- Generalized the *unmodified* pipeline to a second target (**parson**) to test portability
-- Ran a feedback-signal ablation (RQ3) isolating which proxy signals actually drive improvement
-- Fully reproducible: seeded runs, environment/provenance manifests, and open-sourced harnesses
-
-<p>
-<a href="https://doi.org/10.5281/zenodo.22311299" target="_blank"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.22311299.svg" /></a>
-<a href="https://github.com/ziyadmansy/agentic-grammar-fuzzing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a>
-</p>
-
-**Stack:** Python, Hypothesis, OpenAI API, ANTLR grammars, AddressSanitizer/UBSan
-
-<h2 align="left">📱 Apps</h2>
-
-- 👨‍💻 Most proud IOS Apps on Apple App Store:
-  - [**Naveera Driver**](https://apps.apple.com/us/app/naveera-driver/id6769880111) - Driver app for Naveera's fleet-operations platform (NEMT/paratransit/freight); full in-app navigation and offline-mode support.
-  - [**MADFU (Fintech / BNPL Platform**)](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
-  - [**PropertyBox**](https://apps.apple.com/eg/app/propertybox/id1660237557) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
-  - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
-  - [**Tahara**](https://apps.apple.com/us/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) - Medical platform ranked **#2 in Saudi Arabia**, focused on women's health and wellbeing.
-  - [**GetN**](https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
-  - [**Talmaro-ESS**](https://apps.apple.com/us/app/talmaro-ess/id1484374387) - Enterprise HR management system streamlining core organizational processes.
-  - [**Soul/Smash Gym**](https://apps.apple.com/us/developer/mohamed-youssef/id1320109692) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
-
-- 👨‍💻 Most proud Android Apps on Google Play Store:
-  - [**Naveera Driver**](https://play.google.com/store/apps/details?id=tech.naveera.driver&hl=en) - Driver app for Naveera's fleet-operations platform (NEMT/paratransit/freight); full in-app navigation and offline-mode support.
-  - [**MADFU (Fintech / BNPL Platform)**](https://play.google.com/store/apps/details?id=com.sa.app.madfuser) - Sharia-compliant **BNPL** fintech platform for the Saudi market; interest-free installments, merchant integrations, and rewards system.
-  - [**PropertyBox**](https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app) - AI-powered real estate application for the **UK** market; listing image enhancement, object removal, AI-generated descriptions, marketing automation, and EPC-related workflows.
-  - [**Numa**](https://play.google.com/store/apps/details?id=com.cardlessBanki.app) - Global fintech application supporting freelancers with secure digital financial services.
-  - [**Tahara**](https://play.google.com/store/apps/details?id=com.tahara.tahara_app) - Medical platform ranked **#2 in Saudi Arabia**, focused on women's health and wellbeing.
-  - [**Talmaro-ESS**](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) - Enterprise HR management system streamlining core organizational processes.
-  - [**GetN**](https://play.google.com/store/apps/developer?id=GetN) - Similar to Uber/Careem, GetN revolutionizes transportation with its innovative app, providing convenient and reliable ride-hailing services. 
-  - [**My personal apps**](https://bit.ly/ZiyadApps) - Created a portfolio of self-made projects, showcasing a diverse range of innovative mobile applications. 
-  - [**Soul Gym**](https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym) - Designed and developed a full-fledged gym app, empowering users to achieve their fitness goals with personalized workouts and tracking features. 
-
-
-
-- 📄 Know about my experiences with my [**Online CV**](https://bit.ly/ziyadmansycv)
-
-- 📫 Reach me via [**LinkedIn**](https://www.linkedin.com/in/ziyadmansy/) or [**Mail**](mailto:ziyadmohammad37@gmail.com)
-
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
-
-<hr>
-
-<!-- Languages and Tools -->
-<h2 align="left">Languages and Tools</h3> 
-<p>
-
-<a>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</a>
-<a>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-</a>
-<a>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
-</a>
-<a>
-<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-</a>
-<a>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a>
-<img alt="Xcode" src="https://img.shields.io/badge/xcode-7F52FF?style=for-the-badge&logo=xcode&logoColor=white">
-</a>
-<a>
-<img alt="Android Studio" src="https://img.shields.io/badge/android studio-00DE7A?style=for-the-badge&logo=android&logoColor=white">
-</a>
-<a>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a>
-<img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-</a>
-<a>
-
-<img alt="Git" src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<a>
-<img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a>
-<img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-</a>
-<a>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
-<a> <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-</a>
-</p>
-
-<!-- Connect with me -->
-<h2 align="left">Connect </h2>
-<p>
-
-<a href="mailto:ziyadmohammad37@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ziyadmansy37"/> <a href="https://fb.com/ziyadmansy69" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadmansy69"/>  <a href="http://Wa.me/201023843232" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ziyad_mansy"/> <a href="https://www.linkedin.com/in/ziyadmansy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ziyad_mansy"/> <a href="https://stackoverflow.com/users/14139092" target="blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="14139092" height=25/></a> <a href="https://www.hackerrank.com/ziyadmohammad37" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ziyadmohammad37"/></a> <a href="https://codeforces.com/profile/ziyad_mansy" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ziyad_mansy" />
-</p>
-
-<h2> Portfolio </h2>
-<p>
-
-### Naveera Tech — Senior Software Engineer *(Current)*
-Naveera builds fleet-operations software (routing, dispatch, driver app, billing, computer vision) for NEMT, paratransit, and freight/field-service fleets across the US — founded by former fleet operators out of Colorado and Arizona.
-
-- Senior Software Engineer building the **Driver App** and **Client App** — both full Flutter mobile apps, the two rider/operator-facing surfaces of the Naveera platform.
-- Built the driver app's **full in-app navigation system**, handling live routing and turn-by-turn guidance for drivers on active trips.
-- Implemented **full offline-mode support**, keeping dispatch, navigation, and trip data usable and syncing correctly when drivers lose connectivity mid-route — a core reliability requirement for field/transportation operations.
-- Contributed to **dispatch/routing** and **billing** modules alongside the mobile work, supporting the end-to-end trip lifecycle from scheduling to invoicing.
-
-<p><a href="https://play.google.com/store/apps/details?id=tech.naveera.driver&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/naveera-driver/id6769880111" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Madfu
-* Spearheaded the development of key features for MADFU, a fintech app enabling flexible, interest-free installment payments, secure transactions, and seamless shopping across various categories.
-* Led the integration of secure payment systems, personalized installment plans, and Sharia-compliant financial solutions, ensuring a user-friendly and trusted platform for all financial transactions.
-* Focused on optimizing performance, scalability, and security to meet the needs of a rapidly growing user base while maintaining a smooth and efficient user experience.
-* Contributed to MADFU's success, which now serves over 50,000 users, providing them with a smarter, more flexible way to shop and pay, driving significant adoption and positive user feedback in the fintech market.
-<p><a href="https://play.google.com/store/apps/details?id=com.sa.app.madfuser" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/madfu-%D9%85%D8%AF%D9%81%D9%88%D8%B9/id1658723268" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Focal Agent
--   Senior Flutter engineer contributing to PropertyBox, an AI-powered real estate platform for the UK market.
--   Delivered AI-driven features including image enhancement, object removal, and AI-generated property descriptions.
--   Contributed to campaign management tools, professional content generation, and EPC-related workflows supporting UK compliance.
-<p><a href="https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/propertybox/id1660237557" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Numa
-* Spearheaded the development of pivotal features for the Numa mobile banking app, including robust secure login mechanisms, transaction tracking functionalities, and intuitive budgeting tools. 
-* Leveraged expertise in UI/UX design, API integration, and secure data storage to deliver a cutting-edge, user-centric application that meets the diverse needs of Numa's global customer base. 
-* Played a central role in establishing Numa as a trusted name in the fintech industry through the delivery of high-quality, innovative solutions. 
-* Contributed to the success of the Numa project, which now serves over 10,000 users worldwide, facilitating over $300,000 USD in transactions among freelancers and self-employed professionals.
-<p><a href="https://play.google.com/store/apps/details?id=com.cardlessBanki.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/gb/app/use-numa/id6444899716" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Talmaro-ESS
--   Contributed to the development of an enterprise HR management system (Talmaro-ESS) using Flutter.
--   Implemented new features, fixed bugs, and supported ongoing enhancements to improve app performance and stability.
--   Collaborated with senior developers and the backend team to deliver reliable releases and maintain code quality.
--   Assisted in maintaining and improving the user experience, contributing to higher client satisfaction.
-<p><a href="https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/1clique-ess/id1484374387" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Tahara For Women
-* Led a team of Junior Flutter developers in the development and maintenance of the "Tahara" project, a leading health and fitness application available on both the Apple App Store and Google Play Store. 
-* Contributed to the project's success, resulting in "Tahara" achieving the prestigious rank of Second-Ranked App on the Apple App Store among all health and fitness apps in Saudi Arabia. 
-* Played a pivotal role in ensuring the application's continuous improvement and market competitiveness, enhancing user experience and satisfaction. 
-Successfully collaborated with the Assas IT Solutions team and Inovola outsource partners to meet project milestones and deliverables. 
-<p><a href="https://play.google.com/store/apps/details?id=com.tahara.tahara_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/tahara-طهارة/id6446452995" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### GetN Driver and Rider (Full UBER rider and captain clone with enhanced features)
-* Developed and launched two mobile applications, Getn Client and Getn Driver, akin to industry giants such as Uber and Careem. 
-* Successfully published both applications on Google Play Store and Apple App Store, ensuring widespread accessibility to users. 
-* Played a key role in delivering robust and user-friendly applications tailored to the unique demands of the ride-hailing industry.
-<p><a href="https://play.google.com/store/apps/developer?id=GetN&hl=pl&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/developer/getn-for-digital-content/id1659276865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Rubikal's Technical Task
-It is a technical task that was requested by me for my technical interview with [Rubikal].<br/>
-##### Core structure features
- - Clean, scalable and maintainable architecture
- - Domain Driven Design (DDD) approach
- - Test Driven Development (TDD)
-
-<p><a href="https://github.com/ziyadmansy/oivan-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
-
-<hr>
-
-### Focal Agent's Technical Task
-It is a technical task that was requested by me for my technical interview with FocalAgent [UK's leading visual content partner for estate agents].<br/>
-##### Core structure features
- - Clean, scalable and maintainable architecture
- - Domain Driven Design (DDD) approach
- - Test Driven Development (TDD)
- - BloC architecture with flutter_bloc state management package
-
-<p><a href="https://github.com/ziyadmansy/focal-agent-technical-task"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
-<p><a href="https://drive.google.com/drive/folders/1uw62WTJNOGtMf9aY762jUvddCN4SPdva?usp=sharing"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
-
-<hr>
-
-### Inovola's Technical Task
-It is a technical task that was requested by me for my technical interview with [Inovola].<br/>
-##### Core structure features
- - Clean, scalable and maintainable architecture
- - Domain Driven Design (DDD) approach
- - Test Driven Development (TDD)
-
-<p><a href="https://github.com/ziyadmansy/inovola-task-flutter"><img alt="Github" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
-<p><a href="https://drive.google.com/drive/folders/1m-LkBzpNly2ERJ5J4QJ_zms1-zMyi1KS?usp=share_link"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
-
-<hr>
-
-### Totel - Hotels rooms sharing
-It is hotel rooms sharing app that is still under development and is available as an open-source project by me to share the clean and scalable architecture pattern of the project.<br/>
-Totel app enables US users to post their reserved rooms to share them with other partners to share the cost fees. It enables users to reserve hotel rooms and share them after.<br/>
-It is designed with Domain-Driven design(DDD) with a very clean, scalable and maintainable architecture.<br/>
-
-<p><a href="https://github.com/ziyadmansy/totel-flutter-project" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-View%20on%20github-lightgrey?style=for-the-badge&logo=github" /></a><p>
-<p><a href="https://drive.google.com/drive/folders/1xQZBpLnuayCNn6wepehuu2nag8oDs00s?usp=share_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-white.svg?style=for-the-badge&logo=google-drive" /></a><p>
-
-<hr>
-
-### Soul Gym
-It is a gym app for the users of Soul Gym.<br />
-Soul Gym App is available for iPhones and other smartphones. Soul Gym App is a simple and quick app to help our members stay connected and up to date! This app will help guide our members and make their experience so much easier!<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.soulgymegypt.soulgym" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/bt/app/soul-gym/id1557887466" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Virtual World
-
-With Virtual World, designing and remodeling your house, street, office or club in 9D has never been so quick and intuitive like this!<br />
-
-All you have to do is to download Zadcall App and call the expert you need directly.<br />
-Whether you want to decorate, design or play with 9D Models in your house as much as you want, Virtual World is the perfect app for you.
-
-Calling all professionals! We can make it possible to see your own 9D models in Virtual World or develop a unique version of the app for your needs. Your happiness is our goal.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.a9dsimulator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-<hr>
-
-### Piety of Hearts
-
-Millions of Muslim followers of our precious Islamic religion of all Ages, Adult Islamic People, Islamic Kids and Islamic Teen, consider piety of hearts app as the best Islamic app on android devices because it is very special and has a lot of features that every Muslim needs in his daily life.
-It has many Azkar, Dua, Hadith Shareef, Electronic Islamic rosary, Power saving mode and a lot more features that Muslims use every day in their daily life.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.pietyofHearts" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-<hr>
-
-### Boba Colors
-
-Introducing creative BOBA Colors for kids & Coloring game of drawing app for children, drawing book for kids with free coloring pages on Android now! Children learn Alphabets ABC, Numbers 123, Farm Animals, Forest Animals, Fruits, Vegetables, Shapes, Colors, Transport Vehicles, Addition, Subtraction, Multiplication, Division, Toys, Glow Coloring for fun. Let's gather every one in your family to play with our coloring pages app, coloring games for child.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.BOBAColors" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-<hr>
-
-### Furniture Home
-
-Design your home using latest Virtual Reality technology!<br />
-Furniture app is the best app for browsing the best furniture & Architectural design all over the world by the best designers and engineers.<br />
-
-
-<p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.furniture_app_demo" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-<hr>
-
-### Flying Bird
-
-Flying bird is a Simple Relaxing & Adventurous Game that flies between obstacles to get score points.<br />
-</p>
-
-
-<p><a href="https://play.google.com/store/apps/details?id=com.ziyadmansy.flappy_bird" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
-
-<hr>
 
 <p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ziyadmansy&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadmansy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"><img src ="https://github-readme-streak-stats.herokuapp.com?user=ziyadmansy&theme=darcula&hide_border=true&background=FFFFFF00">
-<br>
-<br>
+  <a href="https://www.linkedin.com/in/ziyadmansy/">LinkedIn</a> ·
+  <a href="mailto:ziyadmohammad37@gmail.com">Email</a> ·
+  <a href="https://github.com/ziyadmansy">GitHub</a> ·
+  <a href="https://orcid.org/0009-0008-3499-3828">ORCID</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Senior Mobile Software Engineer specializing in Flutter with 5+ years shipping production apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia.
+
+I build production mobile software across **iOS and Android**, with a strong focus on:
+
+- Clean Architecture and SOLID principles
+- Offline-first mobile systems
+- Automated testing and TDD
+- CI/CD and production releases
+- API integration and backend-driven applications
+- Native iOS and Android integration
+- Scalable Flutter architecture and state management
+
+I've led a 3-engineer team on a **SAMA-licensed BNPL platform with 100K+ downloads**, built enterprise mobile software for UK real estate, and currently build **US fleet-operations software** involving navigation, dispatch, routing, billing, and HIPAA-compliant workflows.
+
+I also independently research **automated software testing, fuzzing, and LLM-guided testing**.
+
+---
+
+## 🚀 Current Work
+
+### Naveera Tech — Senior Mobile Software Engineer
+
+Building mobile applications for a US fleet-operations platform serving transportation providers across NEMT, paratransit, and commercial transportation.
+
+- Building the **Driver App** and **Client App** with Flutter
+- Developed in-app **live navigation and turn-by-turn guidance**
+- Implemented **offline-first architecture** for drivers operating in low-connectivity environments
+- Working across dispatch, routing, trip management, and billing workflows
+- Shipping production applications to both the **Apple App Store and Google Play**
+- Building within **HIPAA-compliant** operational workflows
+
+<p>
+  <a href="https://apps.apple.com/us/app/naveera-driver/id6769880111">
+    <img src="https://img.shields.io/badge/App%20Store-Naveera%20Driver-black?style=for-the-badge&logo=app-store&logoColor=white" alt="Naveera Driver on App Store">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=tech.naveera.driver">
+    <img src="https://img.shields.io/badge/Google%20Play-Naveera%20Driver-blue?style=for-the-badge&logo=google-play" alt="Naveera Driver on Google Play">
+  </a>
+</p>
+
+---
+
+## 📱 Selected Production Apps
+
+### Naveera Driver
+**US Fleet Operations · Flutter · iOS · Android**
+
+Driver-facing application for NEMT, paratransit, and commercial transportation workflows.
+
+- Live navigation and turn-by-turn guidance
+- Offline-first trip and dispatch workflows
+- Routing and trip management
+- Production App Store and Google Play releases
+
+[App Store](https://apps.apple.com/us/app/naveera-driver/id6769880111) ·
+[Google Play](https://play.google.com/store/apps/details?id=tech.naveera.driver)
+
+---
+
+### MADFU
+**Fintech / BNPL · Flutter · Saudi Arabia**
+
+Consumer and merchant applications for a SAMA-licensed, Sharia-compliant BNPL platform.
+
+- 100K+ downloads
+- Installment and payment workflows
+- Merchant and POS integrations
+- Financial transaction flows
+- Led a 3-engineer Flutter team
+- Zero critical security incidents during tenure
+
+[App Store](https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268) ·
+[Google Play](https://play.google.com/store/apps/details?id=com.sa.app.madfuser)
+
+---
+
+### PropertyBox
+**Real Estate · Flutter · iOS · Android · Flutter Web · UK**
+
+Enterprise real estate platform serving clients including Reapit and Connells.
+
+- AI-powered property photo enhancement
+- Automated property description generation
+- AI-generated marketing content
+- Social media publishing workflows
+- Campaign management
+- UK EPC compliance workflows
+- Cross-platform CI/CD with Azure Pipelines
+
+[App Store](https://apps.apple.com/gb/app/propertybox/id1660237557) ·
+[Google Play](https://play.google.com/store/apps/details?id=io.propertybox.propertybox2_app)
+
+---
+
+### Tahara
+**Healthcare · Flutter · Saudi Arabia**
+
+Women's health platform with 100K+ downloads and a 4.5★ rating across 1.19K reviews.
+
+- Ranked #2 in Health & Fitness on the Saudi App Store
+- Menstrual cycle tracking
+- Pregnancy calendar and week-by-week progression
+- Production iOS and Android application
+
+[App Store](https://apps.apple.com/sa/app/tahara-%D8%B7%D9%87%D8%A7%D8%B1%D8%A9/id6446452995) ·
+[Google Play](https://play.google.com/store/apps/details?id=com.tahara.tahara_app)
+
+---
+
+### Talmaro-ESS
+**Enterprise HR · Flutter · iOS · Android · Huawei**
+
+Enterprise HR management platform covering:
+
+- Attendance
+- Payroll
+- Leave management
+- Team approvals
+- Multi-platform production releases
+
+10K+ downloads across stores.
+
+[App Store](https://apps.apple.com/us/app/talmaro-ess/id1484374387) ·
+[Google Play](https://play.google.com/store/apps/details?id=com.onecliquesystems.one_click_app) ·
+[AppGallery](https://appgallery.huawei.com/app/C109430081)
+
+---
+
+## 🧪 Research
+
+My research focuses on **software testing, fuzzing, program analysis, and AI-assisted software engineering**.
+
+### Beyond Sanitizers: LLM-Guided Refinement for Differential JSON Deserialization Testing in Dart
+
+**Under review · AST 2027 (ICSE-colocated)**
+
+Evaluated four Dart/Flutter JSON libraries across **43,336 records**, identifying silent data-corruption behavior in three libraries with a **5.7% mismatch rate**.
+
+[DOI](https://doi.org/10.5281/zenodo.22555795)
+
+---
+
+### Coverage-Free Fuzzing: LLM-Guided Refinement of Grammar-Based Test Generators
+
+**Preprint · 2026**
+
+Developed a black-box LLM-guided refinement loop for grammar-based fuzzing that increased cJSON input acceptance from **58.2% to 97.1% without coverage instrumentation**.
+
+[DOI](https://doi.org/10.5281/zenodo.22556343) ·
+[GitHub Repository](https://github.com/ziyadmansy/agentic-grammar-fuzzing)
+
+---
+
+## 🛠️ Technical Skills
+
+### Mobile
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
+</p>
+
+### Architecture & Engineering
+
+- Clean Architecture
+- SOLID
+- Design Patterns
+- Offline-First Architecture
+- State Management
+- REST API Integration
+- Native Platform Integration
+- Scalable Cross-Platform Development
+
+### Flutter
+
+- Riverpod
+- BLoC / Cubit
+- Provider
+- Flutter Web
+- Material 3
+
+### Testing & Quality
+
+- Unit Testing
+- Widget Testing
+- Integration Testing
+- Test-Driven Development
+- Property-Based Testing
+- Fuzzing
+- Differential Testing
+- AddressSanitizer
+- UndefinedBehaviorSanitizer
+
+### CI/CD & Release
+
+- Azure Pipelines
+- GitHub Actions
+- Bitbucket Pipelines
+- Codemagic
+- App Store
+- Google Play
+- Huawei AppGallery
+
+### Other Technologies
+
+- Firebase
+- Payment Gateways
+- Push Notifications
+- Analytics
+- Crash Reporting
+- Java
+- C
+- Python
+- JavaScript
+
+---
+
+## 📦 Independent App Development
+
+I have independently designed, developed, published, and maintained multiple mobile applications.
+
+### Piety of Hearts
+9-language Islamic lifestyle application.
+
+- Sole developer
+- Flutter
+- 1K+ downloads
+- 4.9★ rating
+- Localization and production publishing
+
+[Google Play](https://play.google.com/store/apps/details?id=com.ziyadmansy.pietyofHearts)
+
+### Additional Published Apps
+
+- **3D Furniture Simulator**
+- **BOBA Colors**
+- **Flying Bird**
+- **Gym Applications**
+
+[View my published apps](https://play.google.com/store/apps/dev?id=6637516697625901674)
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Engineering and Technology**  
+Electrical Engineering Specialization — Computer Engineering and Information Technology Branch
+
+Modern Academy for Engineering and Technology · Cairo, Egypt · 2022
+
+- WES US-equivalent GPA: **3.71 / 4.0**
+- Ranked **1st in cohort**
+- Graduated with Honors
+- Graduation Project: **Modern Home Furniture in Virtual Reality**
+- Flutter + Unity 3D · A+
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/ziyadmansy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ziyadmohammad37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://stackoverflow.com/users/14139092">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://orcid.org/0009-0008-3499-3828">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable mobile software, from architecture to production.</i>
 </p>
