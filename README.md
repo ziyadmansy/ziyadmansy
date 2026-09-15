@@ -1,10 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ziyadmansy&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadmansy" /> </p>
 <h1 align="center">Hi 👋, I'm Ziyad Mansy</h1>
 
-<h3 align="center">Senior Flutter Engineer with 5+ years of experience delivering production-grade mobile applications across fintech, health, and transportation/logistics domains — including full in-app navigation and offline-first architecture. Proven track record leading Flutter
-teams and owning mobile architecture for scalable, secure platforms serving
-international markets. Strong background in Clean Architecture, TDD, and CI/CD, with hands-on
-experience shipping high-impact products across the Saudi, UK, US, and global markets.
+<h3 align="center">
+  Senior Mobile Software Engineer specializing in Flutter, with 5+ years shipping production apps in fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — built with clean architecture, offline-first design, and CI/CD from day one. Led a 3-engineer team on a SAMA-licensed BNPL platform (100K+ downloads, zero critical security incidents) and shipped AI-powered features for an enterprise UK real estate platform used by Reapit and Connells. Currently on US fleet-operations software, where I took a stalled product from 9 months without a release to a HIPAA-compliant launch on both app stores in one month. Five independently published apps on Google Play; author of two preprints on LLM-guided software testing, one under review at an ICSE-colocated conference.
 </h3>
 <br/>
 
