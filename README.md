@@ -32,7 +32,6 @@ Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US 
 I've spent 5+ years building production mobile apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — architecture through implementation, testing, CI/CD, and store releases, on both iOS and Android.
 
 - 🔭 Currently building the Driver & Client apps for Naveera Tech's US fleet-operations platform — HIPAA-compliant, offline-first
-- 🎓 Applying to PhD programs in Computer Science / Software Engineering — research focus: software testing, program analysis, and LLM-guided testing tools
 - 🧪 Independent research in LLM-guided fuzzing and differential testing (see Research below)
 
 ---
