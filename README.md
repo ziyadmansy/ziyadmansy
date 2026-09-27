@@ -27,7 +27,7 @@
 
 ## 👋 About
 
-Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with one published preprint and one paper under review at an ICSE-colocated venue.
+Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with two preprints, both under review, and fixes merged into widely used open-source packages.
 
 I've spent 5+ years building production mobile apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — architecture through implementation, testing, CI/CD, and store releases, on both iOS and Android.
 
@@ -191,12 +191,12 @@ My research grew out of a problem I hit in industry: on a SAMA-licensed fintech 
 
 **LLM-Guided Refinement for Differential JSON Deserialization Testing in Dart**
 
-Under review · AST 2027 (ICSE-colocated)
+Preprint · Under review
 
-Evaluated four Dart/Flutter JSON libraries across **43,336 records**, identifying silent data-corruption behavior in three libraries with a **5.7% mismatch rate** — bugs that produce wrong output without ever crashing, so sanitizer-based fuzzing alone can't find them.
+Tested four Dart/Flutter JSON deserialization paths against each other and found **silent data corruption in three widely used libraries**: out-of-range integers silently saturating in **5.7% of 43,336 checks** (json_serializable, freezed) and missing required lists silently becoming empty (built_value). These are bugs that never crash, so sanitizer-based fuzzing can't find them. The paper also shows that an LLM-guided fuzzer's gap to a hand-built generator is **missing domain knowledge, not search**: given four facts from a small manual characterization, it matches the hand-built generator.
 
-<a href="https://doi.org/10.5281/zenodo.22555795">
-<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22555795-blue?style=for-the-badge&logo=doi&logoColor=white" />
+<a href="https://doi.org/10.5281/zenodo.22555794">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22555794-blue?style=for-the-badge&logo=doi&logoColor=white" />
 </a>
 <a href="https://github.com/ziyadmansy/agentic-fuzzing-dart-json">
 <img src="https://img.shields.io/badge/GitHub-Research%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -208,7 +208,7 @@ Evaluated four Dart/Flutter JSON libraries across **43,336 records**, identifyin
 
 **LLM-Guided Refinement of Grammar-Based Test Generators**
 
-Preprint · 2026
+Preprint · Under review
 
 Built a fully black-box pipeline that uses an LLM to iteratively refine a grammar-based Hypothesis strategy for the **cJSON** C parser, using only parser-level feedback — acceptance rate, structural diversity, rejection signatures — with **no coverage instrumentation**. Every LLM-authored proposal is AST-sandboxed and validated before it touches the target binary.
 
@@ -218,14 +218,22 @@ Built a fully black-box pipeline that uses an LLM to iteratively refine a gramma
 - Ran a feedback-signal ablation isolating which proxy signals actually drive improvement
 - Fully reproducible: seeded runs, environment/provenance manifests, open-sourced harnesses
 
-<a href="https://doi.org/10.5281/zenodo.22556343">
-<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22556343-blue?style=for-the-badge&logo=doi&logoColor=white" />
+<a href="https://doi.org/10.5281/zenodo.22556342">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22556342-blue?style=for-the-badge&logo=doi&logoColor=white" />
 </a>
 <a href="https://github.com/ziyadmansy/agentic-grammar-fuzzing">
 <img src="https://img.shields.io/badge/GitHub-Research%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **Stack:** Python, Hypothesis, OpenAI API, ANTLR grammars, AddressSanitizer/UBSan
+
+---
+
+# 🤝 Open Source Contributions
+
+- **[google/json_serializable.dart](https://github.com/google/json_serializable.dart)**: found that numeric fields are silently truncated or clamped (e.g. `1.9` → `1`) instead of rejected; wrote the documentation fix, merged by the maintainer ([#1591](https://github.com/google/json_serializable.dart/issues/1591), [PR #1592](https://github.com/google/json_serializable.dart/pull/1592)).
+- **[intercom_flutter](https://github.com/deepak786/intercom_flutter)**: fixed an iOS startup crash by upgrading the native Intercom SDK; shipped in release 9.0.4 of a 200k+ monthly-download package ([PR #431](https://github.com/deepak786/intercom_flutter/pull/431)).
+- **[google/built_value.dart](https://github.com/google/built_value.dart)**: reported a missing or `null` required list silently deserializing to an empty list ([#1404](https://github.com/google/built_value.dart/issues/1404)).
 
 ---
 
