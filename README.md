@@ -14,6 +14,9 @@
   <a href="https://orcid.org/0009-0008-3499-3828">
     <img src="https://img.shields.io/badge/ORCID-0009--0008--3499--3828-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?user=Q9Q3LB8AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
   <a href="https://github.com/ziyadmansy">
     <img src="https://img.shields.io/badge/GitHub-ziyadmansy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -46,7 +49,7 @@ I've spent 5+ years building production mobile apps across fintech, healthcare, 
 
 **Fleet Operations · Flutter · iOS · Android**
 
-Driver-facing application for transportation operations. Took over a stalled platform after 9 months without a release and shipped within one month of joining.
+Driver-facing application for transportation operations. Took over a stalled platform after 9 months without a release and shipped within one month of joining; it now handles thousands of trips per day for hundreds of clients across the US.
 
 - Live navigation & turn-by-turn guidance
 - Offline-first architecture
@@ -73,7 +76,8 @@ SAMA-licensed BNPL platform.
 - 100K+ downloads
 - Consumer & merchant apps
 - Payment & POS integrations
-- Zero critical security incidents
+- Zero production security incidents
+- All pen-test findings closed every round
 - Led 3 Flutter engineers
 
 <a href="https://apps.apple.com/us/app/madfu-shop-today-pay-later/id1658723268">
@@ -93,7 +97,7 @@ SAMA-licensed BNPL platform.
 
 **Real Estate · Flutter · iOS · Android · Web · UK**
 
-Enterprise real estate platform serving clients including Reapit and Connells.
+Real estate platform used across the UK, Europe, and the UAE, with enterprise clients including Reapit and Connells.
 
 - AI-powered photo enhancement
 - AI-generated descriptions
@@ -144,8 +148,7 @@ Women's health platform.
 Enterprise HR platform, built from the ground up as founding mobile engineer.
 
 - Attendance, payroll, leave, approvals
-- 10K+ downloads
-- 3 store ecosystems
+- 10K+ downloads across 3 stores
 
 <a href="https://apps.apple.com/us/app/talmaro-ess/id1484374387">
 <img src="https://img.shields.io/badge/App%20Store-View-black?style=flat-square&logo=apple&logoColor=white" />
@@ -207,6 +210,8 @@ Beyond Sanitizers showed that an LLM fuzzer's bottleneck is domain knowledge. Th
 <a href="https://github.com/ziyadmansy/knowledge-sources-fuzzing">
 <img src="https://img.shields.io/badge/GitHub-Research%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+**Stack:** Python, Hypothesis, OpenAI API, Kotlin (Gson, Moshi, kotlinx.serialization, Jackson), Dart, pre-registered design
 
 ---
 
@@ -326,6 +331,9 @@ Built a fully black-box pipeline that uses an LLM to iteratively refine a gramma
 </a>
 <a href="https://orcid.org/0009-0008-3499-3828">
 <img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+<a href="https://scholar.google.com/citations?user=Q9Q3LB8AAAAJ">
+<img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
 </p>
 
