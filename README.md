@@ -27,7 +27,7 @@
 
 ## 👋 About
 
-Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with two papers under review at ICSE-colocated venues (AST 2027, FORGE 2027) and fixes merged into widely used open-source packages.
+Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with three papers (two under review at ICSE-colocated venues, AST 2027 and FORGE 2027, and a new pre-registered study) and fixes merged into widely used open-source packages.
 
 I've spent 5+ years building production mobile apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — architecture through implementation, testing, CI/CD, and store releases, on both iOS and Android.
 
@@ -119,7 +119,7 @@ Enterprise real estate platform serving clients including Reapit and Connells.
 Women's health platform.
 
 - 100K+ downloads
-- 4.5★ across 1.19K reviews
+- 4.6★ from 1.2K+ reviews
 - #2 Health & Fitness in Saudi Arabia
 - Cycle tracking
 - Pregnancy calendar
@@ -185,7 +185,30 @@ Five independently published apps.
 
 # 🔬 Research
 
-My research grew out of a problem I hit in industry: on a SAMA-licensed fintech platform, the only reliable oracle for certain security and correctness bugs was an expensive, human-run compliance audit. That gap led to the two projects below — both about using LLMs to build oracles and generators that expose bugs manual review and crash-only fuzzing miss.
+My research grew out of a problem I hit in industry: on a SAMA-licensed fintech platform, the only reliable oracle for certain security and correctness bugs was an expensive, human-run compliance audit. That gap led to the three projects below — all about using LLMs to build oracles and generators that expose bugs manual review and crash-only fuzzing miss, and about where the domain knowledge those tools need comes from.
+
+### Where Does an LLM Fuzzer's Domain Knowledge Come From?
+
+**Human, Code-Read, and Self-Acquired Knowledge for Differential Testing of Typed Deserializers**
+
+Preprint · 2026
+
+Beyond Sanitizers showed that an LLM fuzzer's bottleneck is domain knowledge. This study asks whether the fuzzer can **acquire that knowledge itself**. In a **pre-registered**, controlled study, the refinement loop stays fixed and only a 1,500-character knowledge slot changes: none, a human characterization, a code-reading agent, or a black-box probing agent that runs its own experiments — on four Dart and four Kotlin JSON libraries (Gson, Moshi, kotlinx.serialization, Jackson).
+
+**Key results (55 seeded runs, 83,500 generated documents):**
+- Dart: human knowledge **30.9%** > code-read **11.6%** > none **1.5%** divergence (p ≈ 0.008 each); unguided probing fails (10.5%, not significant) because its probes never reach the narrow behaviors that matter
+- A pre-registered extension: requiring probes to cover generic test categories reaches **20.2%** (p ≈ 0.032 vs. none)
+- Kotlin, where divergence is common: probing raises divergence from **50.0% → 67.1%** (p ≈ 0.007, 10 seeds), and systematic probing to **81.6%**
+- Reported a standards violation in kotlinx.serialization's strict mode ([#3276](https://github.com/Kotlin/kotlinx.serialization/issues/3276))
+
+<a href="https://doi.org/10.5281/zenodo.23002933">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23002933-blue?style=for-the-badge&logo=doi&logoColor=white" />
+</a>
+<a href="https://github.com/ziyadmansy/knowledge-sources-fuzzing">
+<img src="https://img.shields.io/badge/GitHub-Research%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
 
 ### Beyond Sanitizers
 
@@ -234,6 +257,7 @@ Built a fully black-box pipeline that uses an LLM to iteratively refine a gramma
 - **[google/json_serializable.dart](https://github.com/google/json_serializable.dart)**: found that numeric fields are silently truncated or clamped (e.g. `1.9` → `1`) instead of rejected; wrote the documentation fix, merged by the maintainer ([#1591](https://github.com/google/json_serializable.dart/issues/1591), [PR #1592](https://github.com/google/json_serializable.dart/pull/1592)).
 - **[intercom_flutter](https://github.com/deepak786/intercom_flutter)**: fixed an iOS startup crash by upgrading the native Intercom SDK; shipped in release 9.0.4 of a 200k+ monthly-download package ([PR #431](https://github.com/deepak786/intercom_flutter/pull/431)).
 - **[google/built_value.dart](https://github.com/google/built_value.dart)**: reported a missing or `null` required list silently deserializing to an empty list ([#1404](https://github.com/google/built_value.dart/issues/1404)).
+- **[Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)**: reported that the default strict parser accepts raw control characters the JSON standard forbids, with a standalone reproducer on 1.11.0 and 1.12.0-RC ([#3276](https://github.com/Kotlin/kotlinx.serialization/issues/3276)).
 
 ---
 
