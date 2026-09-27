@@ -27,7 +27,7 @@
 
 ## 👋 About
 
-Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with two preprints, both under review, and fixes merged into widely used open-source packages.
+Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with two papers under review at ICSE-colocated venues (AST 2027, FORGE 2027) and fixes merged into widely used open-source packages.
 
 I've spent 5+ years building production mobile apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — architecture through implementation, testing, CI/CD, and store releases, on both iOS and Android.
 
@@ -191,7 +191,7 @@ My research grew out of a problem I hit in industry: on a SAMA-licensed fintech 
 
 **LLM-Guided Refinement for Differential JSON Deserialization Testing in Dart**
 
-Preprint · Under review
+Under review · AST 2027 (ICSE-colocated)
 
 Tested four Dart/Flutter JSON deserialization paths against each other and found **silent data corruption in three widely used libraries**: out-of-range integers silently saturating in **5.7% of 43,336 checks** (json_serializable, freezed) and missing required lists silently becoming empty (built_value). These are bugs that never crash, so sanitizer-based fuzzing can't find them. The paper also shows that an LLM-guided fuzzer's gap to a hand-built generator is **missing domain knowledge, not search**: given four facts from a small manual characterization, it matches the hand-built generator.
 
@@ -208,7 +208,7 @@ Tested four Dart/Flutter JSON deserialization paths against each other and found
 
 **LLM-Guided Refinement of Grammar-Based Test Generators**
 
-Preprint · Under review
+Under review · FORGE 2027 (ICSE-colocated)
 
 Built a fully black-box pipeline that uses an LLM to iteratively refine a grammar-based Hypothesis strategy for the **cJSON** C parser, using only parser-level feedback — acceptance rate, structural diversity, rejection signatures — with **no coverage instrumentation**. Every LLM-authored proposal is AST-sandboxed and validated before it touches the target binary.
 
