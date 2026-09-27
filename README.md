@@ -30,7 +30,7 @@
 
 ## 👋 About
 
-Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with three papers (two under review at ICSE-colocated venues, AST 2027 and FORGE 2027, and a new pre-registered study) and fixes merged into widely used open-source packages.
+Flutter engineer shipping HIPAA-compliant, offline-first mobile software for US fleet operations — and an independent researcher in LLM-guided software testing, with three papers under review (ICST 2027, and AST 2027 and FORGE 2027, both ICSE-colocated) and fixes merged into widely used open-source packages.
 
 I've spent 5+ years building production mobile apps across fintech, healthcare, transportation, HR, and real estate for clients in the US, UK, and Saudi Arabia — architecture through implementation, testing, CI/CD, and store releases, on both iOS and Android.
 
@@ -194,7 +194,7 @@ My research grew out of a problem I hit in industry: on a SAMA-licensed fintech 
 
 **Human, Code-Read, and Self-Acquired Knowledge for Differential Testing of Typed Deserializers**
 
-Preprint · 2026
+Under review · ICST 2027
 
 Beyond Sanitizers showed that an LLM fuzzer's bottleneck is domain knowledge. This study asks whether the fuzzer can **acquire that knowledge itself**. In a **pre-registered**, controlled study, the refinement loop stays fixed and only a 1,500-character knowledge slot changes: none, a human characterization, a code-reading agent, or a black-box probing agent that runs its own experiments — on four Dart and four Kotlin JSON libraries (Gson, Moshi, kotlinx.serialization, Jackson).
 
