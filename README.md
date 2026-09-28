@@ -261,7 +261,7 @@ Built a fully black-box pipeline that uses an LLM to iteratively refine a gramma
 
 - **[google/json_serializable.dart](https://github.com/google/json_serializable.dart)**: found that numeric fields are silently truncated or clamped (e.g. `1.9` → `1`) instead of rejected; wrote the documentation fix, merged by the maintainer ([#1591](https://github.com/google/json_serializable.dart/issues/1591), [PR #1592](https://github.com/google/json_serializable.dart/pull/1592)).
 - **[intercom_flutter](https://github.com/deepak786/intercom_flutter)**: fixed an iOS startup crash by upgrading the native Intercom SDK; shipped in release 9.0.4 of a 200k+ monthly-download package ([PR #431](https://github.com/deepak786/intercom_flutter/pull/431)).
-- **[google/built_value.dart](https://github.com/google/built_value.dart)**: reported a missing or `null` required list silently deserializing to an empty list ([#1404](https://github.com/google/built_value.dart/issues/1404)).
+- **[google/built_value.dart](https://github.com/google/built_value.dart)**: reported a missing or `null` required list silently deserializing to an empty list; the maintainer confirmed the behavior was undocumented and documented it ([#1404](https://github.com/google/built_value.dart/issues/1404), [dart-lang/build#5178](https://github.com/dart-lang/build/pull/5178)).
 - **[Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)**: reported that the default strict parser accepts raw control characters the JSON standard forbids, with a standalone reproducer on 1.11.0 and 1.12.0-RC ([#3276](https://github.com/Kotlin/kotlinx.serialization/issues/3276)).
 
 ---
