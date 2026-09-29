@@ -221,7 +221,7 @@ Beyond Sanitizers showed that an LLM fuzzer's bottleneck is domain knowledge. Th
 
 Under review · AST 2027 (ICSE-colocated)
 
-Tested four Dart/Flutter JSON deserialization paths against each other and found **silent data corruption in three widely used libraries**: out-of-range integers silently saturating in **5.7% of 43,336 checks** (json_serializable, freezed) and missing required lists silently becoming empty (built_value). These are bugs that never crash, so sanitizer-based fuzzing can't find them. The paper also shows that an LLM-guided fuzzer's gap to a hand-built generator is **missing domain knowledge, not search**: given four facts from a small manual characterization, it matches the hand-built generator.
+Tested four Dart/Flutter JSON deserialization paths against each other and found **silent data changes in three widely used libraries**: out-of-range integers silently saturating in **5.7% of 43,336 checks** (json_serializable, freezed) and missing required lists silently becoming empty (built_value). These failures never crash, so sanitizer-based fuzzing can't find them; the maintainers confirmed both behaviors were undocumented, and one is now documented upstream through my merged PR. The paper also shows that an LLM-guided fuzzer's gap to a hand-built generator is **missing domain knowledge, not search**: given four facts from a small manual characterization, it matches the hand-built generator.
 
 <a href="https://doi.org/10.5281/zenodo.22555794">
 <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22555794-blue?style=for-the-badge&logo=doi&logoColor=white" />
@@ -242,7 +242,7 @@ Built a fully black-box pipeline that uses an LLM to iteratively refine a gramma
 
 **Key results (15 seeded runs per arm):**
 - Raised mean input acceptance rate from **58.2% → 97.1%** vs. a static baseline (exact permutation test, p ≈ 1.29×10⁻⁸)
-- Generalized the unmodified pipeline to a second target (**parson**) to test portability
+- Pre-registered replication on a second parser (**parson**, 15 runs per arm): refinement *lowered* acceptance (95.6% → 92.4%, p ≈ 0.024), with every rejected input traced to its cause, showing when a coverage-free proxy works and when it doesn't
 - Ran a feedback-signal ablation isolating which proxy signals actually drive improvement
 - Fully reproducible: seeded runs, environment/provenance manifests, open-sourced harnesses
 
