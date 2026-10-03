@@ -17,6 +17,7 @@
 
 - **Shipped a stalled fleet platform in 1 month.** Took over US fleet-operations apps that had gone 9 months without a release and shipped them to the App Store and Google Play within a month of joining; they now run thousands of trips a day for hundreds of organizations, on a HIPAA-compliant, offline-first Flutter architecture I designed.
 - **Zero production security incidents on a regulated payments app.** As lead of a 3-engineer team on a Saudi Central Bank-licensed BNPL app (100K+ downloads), closed every finding (5–10 per round) from recurring third-party penetration tests: secure key storage, encryption at rest, SSH hardening and screen-capture protection.
+- **AI-driven testing in production.** Own testing end to end on the apps I ship: unit and integration tests, manual test passes, and AI agents that run manual-style test scenarios and exercise the app the way a real human tester would.
 - **Built a quality process from nothing.** Introduced mandatory code review, a shared component library and test-driven development, reducing bugs and shortening release cycles.
 - **Reached #2 in Health & Fitness** on the Saudi App Store (100K+ downloads, 4.6★ from 1.2K+ reviews) with the cycle-tracking and pregnancy features I built for Tahara.
 - **Shipped AI features at scale.** Delivered AI photo enhancement and AI-generated listing descriptions to real-estate agencies across the UK, Europe and the UAE (enterprise clients include Reapit and Connells), from one Flutter codebase on iOS, Android and Web; I also run recurring sessions teaching colleagues AI-assisted development.
@@ -52,6 +53,7 @@ Took over a platform that had gone 9 months without a release and shipped it to 
 
 - Live navigation & turn-by-turn guidance
 - Offline-first architecture
+- Unit, integration and AI-driven manual testing
 - Dispatch & routing workflows
 - HIPAA-compliant
 
@@ -102,6 +104,7 @@ Real estate platform used across the UK, Europe, and the UAE, with enterprise cl
 - Marketing automation
 - EPC workflows
 - Azure Pipelines CI/CD
+- Unit, integration and AI-automated testing
 
 <a href="https://apps.apple.com/gb/app/propertybox/id1660237557">
 <img src="https://img.shields.io/badge/App%20Store-View-black?style=flat-square&logo=apple&logoColor=white" />
@@ -201,7 +204,7 @@ Five independently published apps.
 
 **Backend & services:** Firebase · REST APIs · payment gateways · maps and live navigation
 
-**Quality & security:** TDD · unit/widget/integration testing · code review · secure key storage · encryption at rest · pen-test remediation · fuzzing · property-based testing
+**Quality & security:** TDD · unit/widget/integration testing · AI-agent-driven manual testing · code review · secure key storage · encryption at rest · pen-test remediation · fuzzing · property-based testing
 
 **Delivery:** GitHub Actions · Azure Pipelines · Bitbucket Pipelines · Codemagic · App Store · Google Play · Huawei AppGallery
 
