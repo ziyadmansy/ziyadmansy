@@ -14,18 +14,18 @@
 
 ---
 
-## ⚡ Highlights
+## Highlights
 
-- 🚚 **Shipped a stalled fleet platform in 1 month.** Took over US fleet-operations apps that had gone 9 months without a release and shipped them to the App Store and Google Play within a month of joining; they now run thousands of trips a day for hundreds of organizations, on a HIPAA-compliant, offline-first Flutter architecture I designed.
-- 🔐 **Zero production security incidents on a regulated payments app.** As lead of a 3-engineer team on a Saudi Central Bank-licensed BNPL app (100K+ downloads), closed every finding (5–10 per round) from recurring third-party penetration tests: secure key storage, encryption at rest, SSH hardening and screen-capture protection.
-- ✅ **Built a quality process from nothing.** Introduced mandatory code review, a shared component library and test-driven development, reducing bugs and shortening release cycles.
-- 📈 **Reached #2 in Health & Fitness** on the Saudi App Store (100K+ downloads, 4.6★ from 1.2K+ reviews) with the cycle-tracking and pregnancy features I built for Tahara.
-- 🤖 **Shipped AI features at scale.** Delivered AI photo enhancement and AI-generated listing descriptions to real-estate agencies across the UK, Europe and the UAE (enterprise clients include Reapit and Connells), from one Flutter codebase on iOS, Android and Web; I also run recurring sessions teaching colleagues AI-assisted development.
-- 🧩 **Open source fixes in libraries with millions of monthly downloads,** including a merged documentation fix in Google's json_serializable and a released iOS crash fix in intercom_flutter.
+- **Shipped a stalled fleet platform in 1 month.** Took over US fleet-operations apps that had gone 9 months without a release and shipped them to the App Store and Google Play within a month of joining; they now run thousands of trips a day for hundreds of organizations, on a HIPAA-compliant, offline-first Flutter architecture I designed.
+- **Zero production security incidents on a regulated payments app.** As lead of a 3-engineer team on a Saudi Central Bank-licensed BNPL app (100K+ downloads), closed every finding (5–10 per round) from recurring third-party penetration tests: secure key storage, encryption at rest, SSH hardening and screen-capture protection.
+- **Built a quality process from nothing.** Introduced mandatory code review, a shared component library and test-driven development, reducing bugs and shortening release cycles.
+- **Reached #2 in Health & Fitness** on the Saudi App Store (100K+ downloads, 4.6★ from 1.2K+ reviews) with the cycle-tracking and pregnancy features I built for Tahara.
+- **Shipped AI features at scale.** Delivered AI photo enhancement and AI-generated listing descriptions to real-estate agencies across the UK, Europe and the UAE (enterprise clients include Reapit and Connells), from one Flutter codebase on iOS, Android and Web; I also run recurring sessions teaching colleagues AI-assisted development.
+- **Open source fixes in libraries with millions of monthly downloads,** including a merged documentation fix in Google's json_serializable and a released iOS crash fix in intercom_flutter.
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Company | Role | Period | Domain |
 |---|---|---|---|
@@ -35,17 +35,17 @@
 | **Assas IT Solutions** (Saudi Arabia, remote) | Senior Mobile Software Engineer | Jan 2022 – Dec 2022 | Healthcare |
 | **Talmaro** (UAE, remote) | Founding Mobile Software Engineer | Mar 2021 – Dec 2021 | Enterprise HR |
 
-🎓 B.Sc. Computer Engineering and Information Technology, **ranked 1st of ~200** (Modern Academy for Engineering and Technology, 2022)
+ B.Sc. Computer Engineering and Information Technology, **ranked 1st of ~200** (Modern Academy for Engineering and Technology, 2022)
 
 ---
 
-# 📱 Selected Production Work
+## Selected Production Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🇺🇸 Naveera Driver
+### Naveera Driver
 
 **Fleet Operations · Flutter · iOS · Android**
 
@@ -67,7 +67,7 @@ Took over a platform that had gone 9 months without a release and shipped it to 
 
 <td width="50%" valign="top">
 
-### 🇸🇦 MADFU
+### MADFU
 
 **Fintech · BNPL · Flutter · Saudi Arabia**
 
@@ -92,7 +92,7 @@ Buy-now-pay-later platform licensed by the Saudi Central Bank (SAMA). Led the 3-
 <tr>
 <td width="50%" valign="top">
 
-### 🇬🇧 PropertyBox
+### PropertyBox
 
 **Real Estate · Flutter · iOS · Android · Web · UK**
 
@@ -115,7 +115,7 @@ Real estate platform used across the UK, Europe, and the UAE, with enterprise cl
 
 <td width="50%" valign="top">
 
-### 🇸🇦 Tahara
+### Tahara
 
 **Healthcare · Flutter · Saudi Arabia**
 
@@ -138,7 +138,7 @@ Women's health app; built cycle tracking and the week-by-week pregnancy calendar
 <tr>
 <td width="50%" valign="top">
 
-### 🇦🇪 Talmaro-ESS
+### Talmaro-ESS
 
 **Enterprise HR · Flutter · iOS · Android · Huawei · UAE**
 
@@ -161,7 +161,7 @@ Enterprise HR platform, built from the ground up as founding mobile engineer.
 
 <td width="50%" valign="top">
 
-### 🌍 Independent Apps
+### Independent Apps
 
 **Mobile Development · Flutter · Android**
 
@@ -183,7 +183,7 @@ Five independently published apps.
 
 ---
 
-# 🤝 Open Source Contributions
+## Open Source Contributions
 
 - **[google/json_serializable.dart](https://github.com/google/json_serializable.dart)**: found that numeric fields are silently truncated or clamped (e.g. `1.9` → `1`) instead of rejected; wrote the documentation fix, merged by the maintainer ([#1591](https://github.com/google/json_serializable.dart/issues/1591), [PR #1592](https://github.com/google/json_serializable.dart/pull/1592)).
 - **[intercom_flutter](https://github.com/deepak786/intercom_flutter)**: fixed an iOS startup crash by upgrading the native Intercom SDK; shipped in release 9.0.4 of a 250K+ monthly-download package ([PR #431](https://github.com/deepak786/intercom_flutter/pull/431)).
@@ -192,7 +192,7 @@ Five independently published apps.
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 **Mobile:** Flutter · Dart · Kotlin · Swift · Java · Android · iOS · platform channels and native SDK integration · Riverpod · BLoC/Cubit · Provider · GetX
 
@@ -208,7 +208,7 @@ Five independently published apps.
 
 ---
 
-# 🔬 Research & Publications
+## Research & Publications
 
 I research automated software testing with LLMs, which shapes how I test the apps I ship. Three sole-authored papers, all under review:
 
