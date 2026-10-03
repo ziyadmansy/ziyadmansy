@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ziyadmansy/"><img src="https://img.shields.io/badge/LinkedIn-ziyadmansy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ziyadmohammad37@gmail.com"><img src="https://img.shields.io/badge/Email-ziyadmohammad37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ziyadmansy.github.io"><img src="https://img.shields.io/badge/Website-ziyadmansy.github.io-1A3361?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://play.google.com/store/apps/dev?id=6637516697625901674"><img src="https://img.shields.io/badge/Google%20Play-My%20Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://ziyadmansy.github.io">Website</a> ·
+  <a href="https://www.linkedin.com/in/ziyadmansy/">LinkedIn</a> ·
+  <a href="mailto:ziyadmohammad37@gmail.com">ziyadmohammad37@gmail.com</a>
 </p>
 
 ---
@@ -216,8 +215,7 @@ I research automated software testing with LLMs, which shapes how I test the app
 - **Beyond Sanitizers: LLM-Guided Refinement for Differential JSON Deserialization Testing in Dart** · AST 2027 (ICSE) · [preprint](https://doi.org/10.5281/zenodo.22555794) · [code](https://github.com/ziyadmansy/agentic-fuzzing-dart-json)
 - **Coverage-Free Fuzzing: LLM-Guided Refinement of Grammar-Based Test Generators** · FORGE 2027 (ICSE) · [preprint](https://doi.org/10.5281/zenodo.22556342) · [code](https://github.com/ziyadmansy/agentic-grammar-fuzzing)
 
-<a href="https://ziyadmansy.github.io"><img src="https://img.shields.io/badge/All%20research-ziyadmansy.github.io-1A3361?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=Q9Q3LB8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+More on my [website](https://ziyadmansy.github.io) and [Google Scholar](https://scholar.google.com/citations?user=Q9Q3LB8AAAAJ).
 
 ---
 
