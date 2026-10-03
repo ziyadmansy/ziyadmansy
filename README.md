@@ -195,7 +195,7 @@ Five independently published apps.
 
 **Mobile:** Flutter · Dart · Kotlin · Swift · Java · Android · iOS · platform channels and native SDK integration · Riverpod · BLoC/Cubit · Provider · GetX
 
-**Web:** Flutter Web · JavaScript · HTML · CSS
+**Web:** React · Flutter Web · JavaScript · HTML · CSS
 
 **Architecture:** Clean Architecture · Domain-Driven Design · SOLID · offline-first sync · MVC
 
